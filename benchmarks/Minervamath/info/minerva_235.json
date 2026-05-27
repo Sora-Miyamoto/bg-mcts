@@ -1,0 +1,4 @@
+{
+    "problem": "Estimate the ionic radius of ${Cs}^{+}$ in Angstroms to 2 decimal places. The lattice energy of $\\mathrm{CsCl}$ is $633 \\mathrm{~kJ} / \\mathrm{mol}$. For $\\mathrm{CsCl}$ the Madelung constant, $\\mathrm{M}$, is $1.763$, and the Born exponent, $\\mathrm{n}$, is 10.7. The ionic radius of $\\mathrm{Cl}^{-}$is known to be $1.81 \\AA$.",
+    "answer": "1.69"
+}

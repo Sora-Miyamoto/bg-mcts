@@ -1,0 +1,6 @@
+{
+    "problem": "Find all $p$ which satisfy both the inequalities $0\\ge 54p-144$ and $0>12-20p$. Express your answer in interval notation, reducing any fractions in your answer.",
+    "answer": "\\left(\\frac{3}{5},\\frac{8}{3}\\right]",
+    "subject": "Algebra",
+    "level": 5
+}

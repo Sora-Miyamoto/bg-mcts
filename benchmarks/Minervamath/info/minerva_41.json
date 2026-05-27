@@ -1,0 +1,4 @@
+{
+    "problem": "A candle has a power in the visual band of roughly $3$ Watts. When this candle is placed at a distance of $3 \\mathrm{~km}$ it has the same apparent brightness as a certain star. Assume that this star has the same luminosity as the Sun in the visual band $\\left(\\sim 10^{26}\\right.$ Watts $)$. How far away is the star (in pc)?",
+    "answer": "0.5613"
+}

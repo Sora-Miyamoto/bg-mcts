@@ -1,0 +1,6 @@
+{
+    "problem": "Let $x,$ $y,$ and $z$ be positive real numbers such that $xyz = 2.$  Find the minimum value of\n\\[x^4 + 4y^2 + 4z^4.\\]",
+    "answer": "16",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

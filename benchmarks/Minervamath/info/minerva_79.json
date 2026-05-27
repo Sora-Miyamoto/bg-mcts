@@ -1,0 +1,4 @@
+{
+    "problem": "Find a solution to $\\dot{x}+2 x=\\cos (2 t)$ in the form $k_0\\left[f(k_1t) + g(k_2t)\\right]$, where $f, g$ are trigonometric functions.  Do not include homogeneous solutions to this ODE in your solution.",
+    "answer": "\\frac{\\cos (2 t)+\\sin (2 t)}{4}"
+}

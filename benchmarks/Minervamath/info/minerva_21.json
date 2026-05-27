@@ -1,0 +1,4 @@
+{
+    "problem": "A galaxy moves directly away from us with a speed of $3000 \\mathrm{~km} \\mathrm{~s}^{-1}$. Find the wavelength of the $\\mathrm{H} \\alpha$ line observed at the Earth, in Angstroms. The rest wavelength of $\\mathrm{H} \\alpha$ is $6565 \\AA$.  Take the speed of light to be $3\\times 10^8$ meters per second.",
+    "answer": "6630"
+}

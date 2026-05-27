@@ -1,0 +1,6 @@
+{
+    "problem": "Fake gold bricks are made by covering concrete cubes with gold paint, so the cost of the paint is proportional to their surface area while the cost of the concrete is proportional to their volume.  If a 1 inch cube costs $\\$1.30$ to make while a 2 inch cube costs $\\$6.80$, then how much would a 3 inch cube cost?",
+    "answer": "\\$18.90",
+    "subject": "Algebra",
+    "level": 5
+}

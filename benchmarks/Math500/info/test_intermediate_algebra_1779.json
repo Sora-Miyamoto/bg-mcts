@@ -1,0 +1,6 @@
+{
+    "problem": "The circle $x^2 + y^2 = 2$ and the parabola $y^2 = 8x$ have two common tangents, forming four points of tangency.  Find the area of the quadrilateral formed by the four points of tangency.\n\n[asy]\nunitsize(0.8 cm);\n\nreal upperparab (real x) {\n  return (sqrt(8*x));\n}\n\nreal lowerparab (real x) {\n  return (-sqrt(8*x));\n}\n\npair A, B, C, D;\n\nA = (-1,1);\nB = (2,4);\nC = (-1,-1);\nD = (2,-4);\n\ndraw(graph(upperparab,0,3));\ndraw(graph(lowerparab,0,3));\ndraw(Circle((0,0),sqrt(2)));\ndraw(interp(A,B,-0.2)--interp(A,B,1.2));\ndraw(interp(C,D,-0.2)--interp(C,D,1.2));\ndraw(A--C);\ndraw(B--D);\n\ndot(A);\ndot(B);\ndot(C);\ndot(D);\n[/asy]",
+    "answer": "15",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

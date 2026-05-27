@@ -1,0 +1,6 @@
+{
+    "problem": "If $-6\\leq a \\leq -2$ and $3 \\leq b \\leq 5$, what is the greatest possible value of $\\displaystyle\\left(a+\\frac{1}{b}\\right)\\left(\\frac{1}{b}-a\\right) $?  Express your answer as a common fraction.",
+    "answer": "-\\frac{35}{9}",
+    "subject": "Algebra",
+    "level": 5
+}

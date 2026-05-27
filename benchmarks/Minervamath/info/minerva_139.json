@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: In the Sun, one of the processes in the He fusion chain is $p+p+e^{-} \\rightarrow d+\\nu$, where $d$ is a deuteron. Make the approximations that the deuteron rest mass is $2 m_{p}$, and that $m_{e} \\approx 0$ and $m_{\\nu} \\approx 0$, since both the electron and the neutrino have negligible rest mass compared with the proton rest mass $m_{p}$.\n\nIn the lab frame, the two protons have the same energy $\\gamma m_{p}$ and impact angle $\\theta$, and the electron is at rest. Calculate the energy $E_{\\nu}$ of the neutrino in the rest frame of the deuteron in terms of $\\theta, m_{p}$ and $\\gamma$.",
+    "answer": "m_{p} c^{2}\\left(\\gamma^{2}-1\\right) \\sin ^{2} \\theta"
+}

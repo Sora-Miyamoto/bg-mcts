@@ -1,0 +1,4 @@
+{
+    "problem": "Harmonic Oscillator Subjected to Perturbation by an Electric Field: An electron is connected by a harmonic spring to a fixed point at $x=0$. It is subject to a field-free potential energy\n\\[\nV(x)=\\frac{1}{2} k x^{2} .\n\\]\nThe energy levels and eigenstates are those of a harmonic oscillator where\n\\[\n\\begin{aligned}\n\\omega &=\\left[k / m_{e}\\right]^{1 / 2} \\\\\nE_{v} &=\\hbar \\omega(v+1 / 2) \\\\\n\\psi_{v}(x) &=(v !)^{-1 / 2}\\left(\\hat{\\boldsymbol{a}}^{\\dagger}\\right)^{v} \\psi_{v=0}(x) .\n\\end{aligned}\n\\]\nNow a constant electric field, $E_{0}$, is applied and $V(x)$ becomes\n\\[\nV(x)=\\frac{1}{2} k x^{2}+E_{0} e x \\quad(e>0 \\text { by definition }) .\n\\]\nWrite an expression for the energy levels $E_{v}$ as a function of the strength of the electric field.",
+    "answer": "\\hbar \\omega(v+1 / 2)-\\frac{E_{0}^{2} e^{2}}{2 m \\omega^{2}}"
+}

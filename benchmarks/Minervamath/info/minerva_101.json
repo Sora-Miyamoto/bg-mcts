@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the exponential function $e^{-t / 2} \\cos (3 t)$, which we will assume is a solution of the differential equation $m \\ddot{x}+b \\dot{x}+k x=0$. \n\nWhat is $b$ in terms of $m$? Write $b$ as a constant times a function of $m$.",
+    "answer": "m"
+}

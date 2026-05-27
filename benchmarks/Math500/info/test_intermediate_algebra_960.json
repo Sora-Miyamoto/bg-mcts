@@ -1,0 +1,6 @@
+{
+    "problem": "Let $T$ be the set of all triples $(a,b,c)$ of positive integers for which there exist triangles with side lengths $a,$ $b,$ $c.$  Compute\n\\[\\sum_{(a,b,c) \\in T} \\frac{2^a}{3^b 5^c}.\\]",
+    "answer": "\\frac{17}{21}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

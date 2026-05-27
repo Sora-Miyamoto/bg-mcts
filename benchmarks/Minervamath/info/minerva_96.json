@@ -1,0 +1,4 @@
+{
+    "problem": "Given the ordinary differential equation $\\ddot{x}-a^{2} x=0$, where $a$ is a nonzero real-valued constant, find a solution $x(t)$ to this equation such that $x(0) = 1$ and $\\dot{x}(0)=0$.",
+    "answer": "\\frac{1}{2}(\\exp{a*t} + \\exp{-a*t})"
+}

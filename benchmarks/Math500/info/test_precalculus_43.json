@@ -1,0 +1,6 @@
+{
+    "problem": "A curve is parameterized by\n\\[(x,y) = (t^3 + 7, -3t^2 - 6t - 5).\\]Find the point the curve passes through at $t = 2.$",
+    "answer": "(15,-29)",
+    "subject": "Precalculus",
+    "level": 1
+}

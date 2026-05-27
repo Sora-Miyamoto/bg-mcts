@@ -1,0 +1,4 @@
+{
+    "problem": "If a star cluster is made up of $10^{6}$ stars whose absolute magnitude is the same as that of the Sun (+5), compute the combined magnitude of the cluster if it is located at a distance of $10 \\mathrm{pc}$.",
+    "answer": "-10"
+}

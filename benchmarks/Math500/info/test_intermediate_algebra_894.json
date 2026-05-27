@@ -1,0 +1,6 @@
+{
+    "problem": "Let $F_1$ and $F_2$ be the foci of the ellipse $kx^2 + y^2 = 1,$ where $k > 1$ is a constant. Suppose that there is a circle which passes through $F_1$ and $F_2$ and which lies tangent to the ellipse at two points on the $x$-axis. Compute $k.$",
+    "answer": "2",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "The superfactorial $n\\$$ is defined as $n\\$ = \\underbrace{ n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}}}}}}_{n!}$. What is the units digit of $4\\$$?",
+    "answer": "6",
+    "subject": "Number Theory",
+    "level": 3
+}

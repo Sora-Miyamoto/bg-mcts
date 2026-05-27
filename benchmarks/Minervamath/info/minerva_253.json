@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Suppose, in the short run, the output of widgets is supplied by 100 identical competitive firms, each having a cost function:\n\\[\nc_{s}(y)=\\frac{1}{3} y^{3}+2\n\\]\nThe demand for widgets is given by:\n\\[\ny^{d}(p)=6400 / p^{\\frac{1}{2}}\n\\]\n\nObtain the short run industry supply function for widgets.",
+    "answer": "100 p^{\\frac{1}{2}}"
+}

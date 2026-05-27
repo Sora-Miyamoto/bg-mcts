@@ -1,0 +1,6 @@
+{
+    "problem": "Compute: $1-2+3-4+5- \\dots +99-100$.",
+    "answer": "-50",
+    "subject": "Intermediate Algebra",
+    "level": 1
+}

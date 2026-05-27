@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Evaluate the following integrals for $\\psi_{J M}$ eigenfunctions of $\\mathbf{J}^{2}$ and $\\mathbf{J}_{z}$. \n\n$\\int \\psi_{22}^{*}\\left(\\widehat{\\mathbf{J}}^{+}\\right)^{4} \\psi_{2,-2} d \\tau$",
+    "answer": "24"
+}

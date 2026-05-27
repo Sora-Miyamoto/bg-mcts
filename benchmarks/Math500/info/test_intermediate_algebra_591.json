@@ -1,0 +1,6 @@
+{
+    "problem": "Let $p(x)$ be a monic polynomial of degree 4.  Three of the roots of $p(x)$ are 1, 2, and 3.  Find $p(0) + p(4).$",
+    "answer": "24",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

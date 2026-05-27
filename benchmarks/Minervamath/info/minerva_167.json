@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: For \"yellow radiation\" (frequency, $v,=5.09 \\times 10^{14} s^{-1}$ ) emitted by activated sodium, determine:\n\nSubproblem 0: the wavelength $(\\lambda)$ in m. Please format your answer as $n \\times 10^x$, where n is to 2 decimal places.\n\n\nSolution: The equation relating $v$ and $\\lambda$ is $c=v \\lambda$ where $c$ is the speed of light $=3.00 \\times 10^{8} \\mathrm{~m}$.\n\\[\n\\lambda=\\frac{c}{v}=\\frac{3.00 \\times 10^{8} m / s}{5.09 \\times 10^{14} s^{-1}}=\\boxed{5.89e-7} m\n\\]\n\nFinal answer: The final answer is 5.89e-7. I hope it is correct.\n\nSubproblem 1: the wave number $(\\bar{v})$ in ${cm}^{-1}$. Please format your answer as $n \\times 10^x$, where n is to 2 decimal places.",
+    "answer": "1.70e4"
+}

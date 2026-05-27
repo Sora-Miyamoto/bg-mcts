@@ -1,0 +1,4 @@
+{
+    "problem": "An electron beam strikes a crystal of cadmium sulfide (CdS). Electrons scattered by the crystal move at a velocity of $4.4 \\times 10^{5} \\mathrm{~m} / \\mathrm{s}$. Calculate the energy of the incident beam. Express your result in eV, and as an integer. CdS is a semiconductor with a band gap, $E_{g}$, of $2.45$ eV.",
+    "answer": "3"
+}

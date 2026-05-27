@@ -1,0 +1,6 @@
+{
+    "problem": "Find all the integer roots of\n\\[x^4 + 5x^3 + 9x^2 - x - 14 = 0.\\]Enter all the integer roots, separated by commas.",
+    "answer": "-2,1",
+    "subject": "Intermediate Algebra",
+    "level": 1
+}

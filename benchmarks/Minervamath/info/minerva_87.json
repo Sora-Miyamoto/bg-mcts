@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to a circuit with the following parameters. Denote by $I(t)$ the current (where the positive direction is, say, clockwise) in the circuit and by $V(t)$ the voltage increase across the voltage source, at time $t$. Denote by $R$ the resistance of the resistor and $C$ the capacitance of the capacitor (in units which we will not specify)-both positive numbers. Then\n\\[\nR \\dot{I}+\\frac{1}{C} I=\\dot{V}\n\\]\n\nSuppose that $V$ is constant, $V(t)=V_{0}$. Solve for $I(t)$, with initial condition $I(0)$.",
+    "answer": "I(0) e^{-\\frac{t}{R C}}"
+}

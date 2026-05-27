@@ -1,0 +1,6 @@
+{
+    "problem": "If $\\omega^{1997} = 1$ and $\\omega \\neq 1,$ then evaluate\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2} + \\dots + \\frac{1}{1 + \\omega^{1997}}.\\]",
+    "answer": "\\frac{1997}{2}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "Let $x_1,$ $x_2,$ $x_3,$ $y_1,$ $y_2,$ and $y_3$ be real numbers such that\n\\begin{align*}\n(x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\\n(x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\\n(x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25.\n\\end{align*}Find $\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix}^2.$",
+    "answer": "144",
+    "subject": "Precalculus",
+    "level": 5
+}

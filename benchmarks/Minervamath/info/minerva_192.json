@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the atomic (metallic) radius of Mo in meters. Do not give the value listed in the periodic table; calculate it from the fact that Mo's atomic weight is $=95.94 \\mathrm{~g} /$ mole and $\\rho=10.2 \\mathrm{~g} / \\mathrm{cm}^{3}$. Please format your answer as $n \\times 10^x$ where $n$ is to 2 decimal places.",
+    "answer": "1.39e-10"
+}

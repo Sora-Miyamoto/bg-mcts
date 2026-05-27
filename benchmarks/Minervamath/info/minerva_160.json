@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A pure crystalline material (no impurities or dopants are present) appears red in transmitted light.\n\nSubproblem 0: Is this material a conductor, semiconductor or insulator? Give the reasons for your answer.\n\n\nSolution: If the material is pure (no impurity states present), then it must be classified as a \\boxed{semiconductor} since it exhibits a finite \"band gap\" - i.e. to activate charge carriers, photons with energies in excess of \"red\" radiation are required.\n\nFinal answer: The final answer is semiconductor. I hope it is correct.\n\nSubproblem 1: What is the approximate band gap $\\left(\\mathrm{E}_{g}\\right)$ for this material in eV? Please round your answer to 1 decimal place.",
+    "answer": "1.9"
+}

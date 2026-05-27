@@ -1,0 +1,6 @@
+{
+    "problem": "The area of triangle $ABC$ is equal to $a^2 - (b - c)^2,$ where $a,$ $b,$ and $c$ are the sides of triangle $ABC,$ as usual.  Compute $\\tan A.$",
+    "answer": "\\frac{8}{15}",
+    "subject": "Precalculus",
+    "level": 3
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "Let $f(x) = 2^x.$ Find $\\sqrt{f(f(f(f(1))))}.$",
+    "answer": "256",
+    "subject": "Algebra",
+    "level": 4
+}

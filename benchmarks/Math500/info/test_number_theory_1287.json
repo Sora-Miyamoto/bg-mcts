@@ -1,0 +1,6 @@
+{
+    "problem": "Suppose $a$ and $b$ are different prime numbers greater than 2. How many whole-number divisors are there for the integer $a(2a+b)-2a^{2}+ab$?",
+    "answer": "8",
+    "subject": "Number Theory",
+    "level": 4
+}

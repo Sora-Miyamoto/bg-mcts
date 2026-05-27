@@ -1,0 +1,6 @@
+{
+    "problem": "Find the greatest integer less than $(\\sqrt{7} + \\sqrt{5})^6.$  (Do not use a calculator!)",
+    "answer": "13535",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

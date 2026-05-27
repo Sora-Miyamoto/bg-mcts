@@ -1,0 +1,6 @@
+{
+    "problem": "Find the unique $\\textbf{odd}$ integer $t$ such that $0<t<23$ and $t+2$ is the inverse of $t$ modulo $23$.",
+    "answer": "17",
+    "subject": "Number Theory",
+    "level": 4
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "A signal \\(w(t)\\) is defined as\n\\[\nw(t)=u_{s}(t)-u_{s}(t-T)\n\\]\nwhere \\(T\\) is a fixed time in seconds and \\(u_{s}(t)\\) is the unit step. Compute the Laplace transform \\(W(s)\\) of \\(w(t)\\). Show your work.",
+    "answer": "\\frac{1}{s}-\\frac{1}{s} e^{-s T}"
+}

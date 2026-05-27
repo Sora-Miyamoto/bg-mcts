@@ -1,0 +1,6 @@
+{
+    "problem": "The coordinates of a parallelogram are (5, 3), (6, 8), (7, 4) and $(x, y)$ and $x > 7$. What is the value of $x + y$?",
+    "answer": "17",
+    "subject": "Geometry",
+    "level": 4
+}

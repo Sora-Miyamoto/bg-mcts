@@ -1,0 +1,4 @@
+{
+    "problem": "Use the Bohr model of the atom to compute the wavelength of the transition from the $n=100$ to $n=99$ levels, in centimeters. [Uscful relation: the wavelength of $L \\alpha$ ( $\\mathrm{n}=2$ to $\\mathrm{n}=1$ transition) is $1216 \\AA$.]",
+    "answer": "4.49"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Suppose there are exactly two consumers (Albie and Bubbie) who demand strawberries. Suppose that Albie's demand for strawberries is given by\n\\[\nq_{a}(p)=p^{\\alpha} f_{a}\\left(I_{a}\\right)\n\\]\nand Bubbie's demand is given by\n\\[\nq_{b}(p)=p^{\\beta} f_{b}\\left(I_{b}\\right)\n\\]\nwhere $I_{a}$ and $I_{b}$ are Albie and Bubbie's incomes, and $f_{a}(\\cdot)$ and $f_{b}(\\cdot)$ are two unknown functions.\n\nFind Albie's (own-price) elasticity of demand, $\\epsilon_{q_{a}, p}$. Use the sign convention that $\\epsilon_{y, x}=\\frac{\\partial y}{\\partial x} \\frac{x}{y}$.",
+    "answer": "\\alpha"
+}

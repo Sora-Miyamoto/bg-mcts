@@ -1,0 +1,6 @@
+{
+    "problem": "Factor the expression $ab+5b+2a+10$.",
+    "answer": "(a+5)(b+2)",
+    "subject": "Intermediate Algebra",
+    "level": 1
+}

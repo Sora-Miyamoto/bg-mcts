@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: In a parallel universe, the Boston baseball team made the playoffs.\n\nSubproblem 0: Manny Relativirez hits the ball and starts running towards first base at speed $\\beta$. How fast is he running, given that he sees third base $45^{\\circ}$ to his left (as opposed to straight to his left before he started running)? Assume that he is still very close to home plate. Give your answer in terms of the speed of light, $c$.\n\n\nSolution: Using the aberration formula with $\\cos \\theta^{\\prime}=-1 / \\sqrt{2}, \\beta=1 / \\sqrt{2}$, so $v=\\boxed{\\frac{1}{\\sqrt{2}}c}$.\n\nFinal answer: The final answer is \\frac{1}{\\sqrt{2}}c. I hope it is correct.\n\nSubproblem 1: A player standing on third base is wearing red socks emitting light of wavelength $\\lambda_{\\text {red}}$. What wavelength does Manny see in terms of $\\lambda_{\\text {red}}$?",
+    "answer": "\\lambda_{\\text {red}} / \\sqrt{2}"
+}

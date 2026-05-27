@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A radio interferometer, operating at a wavelength of $1 \\mathrm{~cm}$, consists of 100 small dishes, each $1 \\mathrm{~m}$ in diameter, distributed randomly within a $1 \\mathrm{~km}$ diameter circle. \n\nWhat is the angular resolution of a single dish, in radians?",
+    "answer": "0.01"
+}

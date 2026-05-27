@@ -1,0 +1,6 @@
+{
+    "problem": "Let \\[f(n) = \\left\\{\n\\begin{array}{cl}\n\\lfloor n \\rfloor & \\text{ if }n \\geq 4, \\\\\n\\lceil n \\rceil & \\text{ if } n < 4.\n\\end{array}\n\\right.\\]Find $f\\left(\\frac{\\pi}{3}\\right) + f(\\sqrt{45}) + f(8^{2/3})$.",
+    "answer": "12",
+    "subject": "Algebra",
+    "level": 4
+}

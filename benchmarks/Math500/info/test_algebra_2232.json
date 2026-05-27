@@ -1,0 +1,6 @@
+{
+    "problem": "Evaluate $\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$.",
+    "answer": "-3",
+    "subject": "Algebra",
+    "level": 4
+}

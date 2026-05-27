@@ -1,0 +1,6 @@
+{
+    "problem": "For a point $P,$ let $d_1,$ $d_2$ and $d_3$ represents the distances from $P$ to the planes $x - z = 0,$ $x - 2y + z = 0,$ and $x + y + z = 0.$  Let $S$ be the set of points $P$ such that\n\\[d_1^2 + d_2^2 + d_3^2 = 36.\\]Find the region of the volume enclosed by $S.$",
+    "answer": "288 \\pi",
+    "subject": "Precalculus",
+    "level": 4
+}

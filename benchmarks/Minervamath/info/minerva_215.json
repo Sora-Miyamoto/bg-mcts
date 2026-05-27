@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A first-order chemical reaction is found to have an activation energy $\\left(E_{A}\\right)$ of 250 $\\mathrm{kJ} /$ mole and a pre-exponential (A) of $1.7 \\times 10^{14} \\mathrm{~s}^{-1}$.\n\nDetermine the rate constant at $\\mathrm{T}=750^{\\circ} \\mathrm{C}$. Round your answer to 1 decimal place, in units of $\\mathrm{s}^{-1}$.",
+    "answer": "28.8"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "If $f(x) = \\frac{3x-2}{x-2}$, what is the value of $f(-2) +f(-1)+f(0)$? Express your answer as a common fraction.",
+    "answer": "\\frac{14}{3}",
+    "subject": "Algebra",
+    "level": 3
+}

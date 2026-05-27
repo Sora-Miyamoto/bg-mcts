@@ -1,0 +1,6 @@
+{
+    "problem": "Alice chooses a set $A$ of positive integers. Then Bob lists all finite nonempty sets $B$ of positive integers with the property that the maximum element of $B$ belongs to $A$. Bob's list has 2024 sets. Find the sum of the elements of A.",
+    "answer": "055",
+    "year": "2024",
+    "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_6"
+}

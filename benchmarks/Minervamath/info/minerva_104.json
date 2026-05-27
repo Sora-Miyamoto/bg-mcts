@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the differential equation $\\ddot{x}+b \\dot{x}+x=0$.\\\\\n\nWhat is the characteristic polynomial $p(s)$ of $\\ddot{x}+b \\dot{x}+x=0$?",
+    "answer": "s^{2}+b s+1"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "If each point of the circle $x^2 + y^2 = 25$ is reflected in the point $(4,1),$ the set of image points satisfies the equation\n\\[x^2 + ay^2 + bx + cy + d = 0.\\]Compute the ordered quadruple $(a,b,c,d)$ of real numbers.",
+    "answer": "(1,-16,-4,43)",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

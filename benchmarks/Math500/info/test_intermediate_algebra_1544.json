@@ -1,0 +1,6 @@
+{
+    "problem": "Find the number of quadratic equations of the form $x^2 + ax + b = 0,$ such that whenever $c$ is a root of the equation, $c^2 - 2$ is also a root of the equation.",
+    "answer": "6",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A population of 100 ferrets is introduced to a large island in the beginning of 1990 . Ferrets have an intrinsic growth rate, $r_{\\max }$ of $1.3 \\mathrm{yr}^{-1}$.\n\nSubproblem 0: Assuming unlimited resources-i.e., there are enough resources on this island to last the ferrets for hundreds of years-how many ferrets will there be on the island in the year 2000? (Show your work!)\n\n\nSolution: $N_o = 100$ (in 1990)\n\\\\\n$N = ?$ (in 2000)\n\\\\\n$t = 10$ yr\n\\\\\n$r = 1.3 \\text{yr}^{-1}$\n\\\\\n$N = N_{o}e^{rt} = 100*e^{(1.3/\\text{yr})(10 \\text{yr})} = 4.4 x 10^7$ ferrets\n\\\\\nThere will be \\boxed{4.4e7} ferrets on the island in the year 2000. \n\nFinal answer: The final answer is 4.4e7. I hope it is correct.\n\nSubproblem 1: What is the doubling time of the ferret population? (Show your work!)",
+    "answer": "0.53"
+}

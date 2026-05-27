@@ -1,0 +1,6 @@
+{
+    "problem": "Find the quotient when $x^6 - 3$ is divided by $x + 1.$",
+    "answer": "x^5 - x^4 + x^3 - x^2 + x - 1",
+    "subject": "Intermediate Algebra",
+    "level": 2
+}

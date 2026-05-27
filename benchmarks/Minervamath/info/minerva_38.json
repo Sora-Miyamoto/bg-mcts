@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The density of stars in a particular globular star cluster is $10^{6} \\mathrm{pc}^{-3}$. Take the stars to have the same radius as the Sun, and to have an average speed of $10 \\mathrm{~km} \\mathrm{sec}^{-1}$.\n\nFind the mean free path for collisions among stars.  Express your answer in centimeters, to a single significant figure.",
+    "answer": "2e27"
+}

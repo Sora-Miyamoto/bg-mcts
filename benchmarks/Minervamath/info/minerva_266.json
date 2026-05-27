@@ -1,0 +1,4 @@
+{
+    "problem": "Compute the momentum of one $500 \\mathrm{~nm}$ photon using $p_{\\text {photon }}=E_{\\text {photon }} / c$ where $c$ is the speed of light, $c=3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}$, and $\\nu=c / \\lambda$.  Express your answer in kilogram meters per second, rounding your answer to three decimal places.",
+    "answer": "1.325e-27"
+}

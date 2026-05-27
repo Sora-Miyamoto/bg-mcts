@@ -1,0 +1,6 @@
+{
+    "problem": "Solve\n\\[\\frac{|x^2 - 81|}{x^2 - 36x} < 0.\\]",
+    "answer": "(0,9) \\cup (9,36)",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

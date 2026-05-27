@@ -1,0 +1,6 @@
+{
+    "problem": "What real values of $x$ are not in the domain of\n\n$f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$?",
+    "answer": "-4",
+    "subject": "Algebra",
+    "level": 5
+}

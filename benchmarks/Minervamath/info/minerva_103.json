@@ -1,0 +1,4 @@
+{
+    "problem": "What is the smallest possible positive $k$ such that all functions $x(t)=A \\cos (\\omega t-\\phi)$---where $\\phi$ is an odd multiple of $k$---satisfy $x(0)=0$? \\\\",
+    "answer": "\\frac{\\pi}{2}"
+}

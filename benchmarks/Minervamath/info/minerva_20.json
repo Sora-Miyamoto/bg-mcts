@@ -1,0 +1,4 @@
+{
+    "problem": "If a star cluster is made up of $10^{4}$ stars, each of whose absolute magnitude is $-5$, compute the combined apparent magnitude of the cluster if it is located at a distance of $1 \\mathrm{Mpc}$.",
+    "answer": "10"
+}

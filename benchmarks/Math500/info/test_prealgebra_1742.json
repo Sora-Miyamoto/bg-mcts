@@ -1,0 +1,6 @@
+{
+    "problem": "A number is selected at random from 1 through 100, inclusive.  What is the probability that the number is a multiple of 3?",
+    "answer": "\\dfrac{33}{100}",
+    "subject": "Prealgebra",
+    "level": 3
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "A line is parameterized by\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 8 \\\\ -1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}.\\]The equation of the line can be expressed in the form $y = mx + b.$  Enter the ordered pair $(m,b).$",
+    "answer": "\\left( \\frac{3}{2}, -13 \\right)",
+    "subject": "Precalculus",
+    "level": 2
+}

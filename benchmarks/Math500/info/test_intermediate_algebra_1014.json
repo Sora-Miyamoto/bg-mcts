@@ -1,0 +1,6 @@
+{
+    "problem": "Let $a$ and $b$ be positive real numbers such that $ab^2 = 5.$  Find the minimum value of $a^4 + b^8.$",
+    "answer": "50",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

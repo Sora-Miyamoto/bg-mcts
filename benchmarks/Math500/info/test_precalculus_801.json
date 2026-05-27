@@ -1,0 +1,6 @@
+{
+    "problem": "Let $\\mathbf{a}$ and $\\mathbf{b}$ be vectors such that the angle between $\\mathbf{a}$ and $\\mathbf{b}$ is $29^\\circ,$ and the angle between $\\mathbf{b}$ and $\\mathbf{a} - \\mathbf{b}$ is $84^\\circ.$  Find the angle between $\\mathbf{a}$ and $\\mathbf{a} - \\mathbf{b}.$",
+    "answer": "55^\\circ",
+    "subject": "Precalculus",
+    "level": 3
+}

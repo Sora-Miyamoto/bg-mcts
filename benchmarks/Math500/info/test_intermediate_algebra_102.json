@@ -1,0 +1,6 @@
+{
+    "problem": "Compute\n\\[\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\\]where $F_n$ denotes the $n$th Fibonacci number, so $F_0 = 0$ and $F_1 = 1.$",
+    "answer": "2",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Once a star like the Sun starts to ascend the giant branch its luminosity, to a good approximation, is given by:\n\\[\nL=\\frac{10^{5} L_{\\odot}}{M_{\\odot}^{6}} M_{\\text {core }}^{6}\n\\]\nwhere the symbol $\\odot$ stands for the solar value, and $M_{\\text {core }}$ is the mass of the He core of the star. Further, assume that as more hydrogen is burned to helium - and becomes added to the core - the conversion efficiency between rest mass and energy is:\n\\[\n\\Delta E=0.007 \\Delta M_{\\text {core }} c^{2} .\n\\]\n\nUse these two expressions to write down a differential equation, in time, for $M_{\\text {core }}$.  For ease of writing, simply use the variable $M$ to stand for $M_{\\text {core }}$.  Leave your answer in terms of $c$, $M_{\\odot}$, and $L_{\\odot}$.",
+    "answer": "\\frac{dM}{dt}=\\frac{10^{5} L_{\\odot}}{0.007 c^{2} M_{\\odot}^{6}} M^{6}"
+}

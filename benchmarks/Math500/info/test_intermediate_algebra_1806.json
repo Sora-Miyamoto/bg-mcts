@@ -1,0 +1,6 @@
+{
+    "problem": "Let $z$ be a complex number such that $|z| = 1.$  Find the maximum value of\n\\[|1 + z| + |1 - z + z^2|.\\]",
+    "answer": "\\frac{13}{4}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

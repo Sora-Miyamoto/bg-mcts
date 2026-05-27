@@ -1,0 +1,4 @@
+{
+    "problem": "Take the total energy (potential plus thermal) of the Sun to be given by the simple expression:\n\\[\nE \\simeq-\\frac{G M^{2}}{R}\n\\]\nwhere $M$ and $R$ are the mass and radius, respectively. Suppose that the energy generation in the Sun were suddenly turned off and the Sun began to slowly contract. During this contraction its mass, $M$, would remain constant and, to a fair approximation, its surface temperature would also remain constant at $\\sim 5800 \\mathrm{~K}$. Assume that the total energy of the Sun is always given by the above expression, even as $R$ gets smaller. By writing down a simple (differential) equation relating the power radiated at Sun's surface with the change in its total energy (using the above expression), integrate this equation to find the time (in years) for the Sun to shrink to $1 / 2$ its present radius.  Answer in units of years.",
+    "answer": "7.5e7"
+}

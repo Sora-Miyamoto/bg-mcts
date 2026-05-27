@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A spectrum is taken of a single star (i.e., one not in a binary). Among the observed spectral lines is one from oxygen whose rest wavelength is $5007 \\AA$. The Doppler shifted oxygen line from this star is observed to be at a wavelength of $5012 \\AA$. The star is also observed to have a proper motion, $\\mu$, of 1 arc second per year (which corresponds to $\\sim 1.5 \\times 10^{-13}$ radians per second of time). It is located at a distance of $60 \\mathrm{pc}$ from the Earth. Take the speed of light to be $3 \\times 10^8$ meters per second.\n\nWhat is the component of the star's velocity parallel to its vector to the Earth (in kilometers per second)?",
+    "answer": "300"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "A square and an equilateral triangle have\tequal\tperimeters.\tThe area of the triangle is $16\\sqrt{3}$ square centimeters. How long, in centimeters, is a diagonal of the square? Express your answer in simplest radical form.\n\n[asy]\ndefaultpen(linewidth(1));\ndraw((0,0)--(1,0)--(1,1)--(0,1)--cycle);\npair a = (1.25,0)+1.25*dir(60);\npair b = a+1.25*dir(-60);\ndraw((1.25,0)--a--b--cycle);\n\n[/asy]",
+    "answer": "6\\sqrt{2}",
+    "subject": "Geometry",
+    "level": 3
+}

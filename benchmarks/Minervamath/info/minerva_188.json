@@ -1,0 +1,4 @@
+{
+    "problem": "By planar diffusion of antimony (Sb) into p-type germanium (Ge), a p-n junction is obtained at a depth of $3 \\times 10^{-3} \\mathrm{~cm}$ below the surface. What is the donor concentration in the bulk germanium if diffusion is carried out for three hours at $790^{\\circ} \\mathrm{C}$? Please format your answer as $n \\times 10^x$ where $n$ is to 2 decimal places, and express it in units of $1/\\mathrm{cm}^3$. The surface concentration of antimony is held constant at a value of $8 \\times 10^{18}$ $\\mathrm{cm}^{-3} ; D_{790^{\\circ} \\mathrm{C}}=4.8 \\times 10^{-11} \\mathrm{~cm}^{2} / \\mathrm{s}$.",
+    "answer": "2.88e16"
+}

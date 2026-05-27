@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the velocity of an electron (in $\\mathrm{m} / \\mathrm{s}$ ) that has been subjected to an accelerating potential $V$ of 150 Volt. Please format your answer as $n \\times 10^x$, where $n$ is to 2 decimal places. \n(The energy imparted to an electron by an accelerating potential of one Volt is $1.6 \\times 10^{-19}$ J oules; dimensional analysis shows that the dimensions of charge $x$ potential correspond to those of energy; thus: 1 electron Volt $(1 \\mathrm{eV})=1.6 \\times 10^{-19}$ Coulomb $\\times 1$ Volt $=1.6 \\times 10^{-19}$ Joules.)",
+    "answer": "7.26e6"
+}

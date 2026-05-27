@@ -1,0 +1,6 @@
+{
+    "problem": "Let $f(x) = x - 3$ and $q(x) = bx +1$.  If $f(q(1)) = -3$, what is $b$?",
+    "answer": "-1",
+    "subject": "Algebra",
+    "level": 3
+}

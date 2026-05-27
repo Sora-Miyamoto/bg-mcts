@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A very hot star is detected in the galaxy M31 located at a distance of $800 \\mathrm{kpc}$. The star has a temperature $T = 6 \\times 10^{5} K$ and produces a flux of $10^{-12} \\mathrm{erg} \\cdot \\mathrm{s}^{-1} \\mathrm{cm}^{-2}$ at the Earth. Treat the star's surface as a blackbody radiator.\n\nSubproblem 0: Find the luminosity of the star (in units of $\\mathrm{erg} \\cdot \\mathrm{s}^{-1}$).\n\n\nSolution: \\[\n  L=4 \\pi D^{2} \\text { Flux }_{\\text {Earth }}=10^{-12} 4 \\pi\\left(800 \\times 3 \\times 10^{21}\\right)^{2}=\\boxed{7e37} \\mathrm{erg} \\cdot \\mathrm{s}^{-1}\n\\]\n\nFinal answer: The final answer is 7e37. I hope it is correct.\n\nSubproblem 1: Compute the star's radius in centimeters.",
+    "answer": "8.7e8"
+}

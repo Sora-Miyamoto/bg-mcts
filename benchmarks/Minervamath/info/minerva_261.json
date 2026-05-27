@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: You have been asked to analyze the market for steel. From public sources, you are able to find that last year's price for steel was $\\$ 20$ per ton. At this price, 100 million tons were sold on the world market. From trade association data you are able to obtain estimates for the own price elasticities of demand and supply on the world markets as $-0.25$ for demand and $0.5$ for supply. Assume that steel has linear demand and supply curves throughout, and that the market is competitive.\n\nSolve for the equations of demand in this market.  Use $P$ to represent the price of steel in dollars per ton, and $X_{d}$ to represent the demand in units of millions of tons.",
+    "answer": "X_{d}=125-1.25 P"
+}

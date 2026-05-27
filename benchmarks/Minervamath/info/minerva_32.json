@@ -1,0 +1,4 @@
+{
+    "problem": "The Very Large Array (VLA) telescope has an effective diameter of $36 \\mathrm{~km}$, and a typical wavelength used for observation at this facility might be $6 \\mathrm{~cm}$.  Based on this information, compute an estimate for the angular resolution of the VLA in arcseconds",
+    "answer": "0.33"
+}

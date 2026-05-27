@@ -1,0 +1,6 @@
+{
+    "problem": "A book is said to have $n$ leaves if it is composed of $n$ pieces of paper. On the other hand, the number of pages is twice the number of leaves because each side of a piece of paper is defined as a page.\n\nIf the number of pages in a book is $3$ more than a multiple of $7$, and the number of leaves is greater than $100$, then what is the smallest possible number of leaves?",
+    "answer": "103",
+    "subject": "Number Theory",
+    "level": 4
+}

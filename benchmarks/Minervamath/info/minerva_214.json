@@ -1,0 +1,4 @@
+{
+    "problem": "If no electron-hole pairs were produced in germanium (Ge) until the temperature reached the value corresponding to the energy gap, at what temperature (Celsius)  would Ge become conductive? Please format your answer as $n \\times 10^x$ where n is to 1 decimal place. $\\left(\\mathrm{E}_{\\mathrm{th}}=3 / 2 \\mathrm{kT}\\right)$",
+    "answer": "5.3e3"
+}

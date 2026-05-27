@@ -1,0 +1,6 @@
+{
+    "problem": "If $t(x) = 3-g(x)$ and $g(x) = \\sqrt{x}$, then what is $t(g(16))$?",
+    "answer": "1",
+    "subject": "Algebra",
+    "level": 3
+}

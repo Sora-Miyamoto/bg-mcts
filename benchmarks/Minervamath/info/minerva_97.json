@@ -1,0 +1,4 @@
+{
+    "problem": "Find the general solution of the differential equation $\\dot{x}+2 x=e^{t}$, using $c$ for the arbitrary constant of integration which will occur.",
+    "answer": "\\frac{e^{t}} {3}+c e^{-2 t}"
+}

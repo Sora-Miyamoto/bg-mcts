@@ -1,0 +1,4 @@
+{
+    "problem": "A star of radius, $R$, and mass, $M$, has an atmosphere that obeys a polytropic equation of state:\n\\[\nP=K \\rho^{5 / 3} \\text {, }\n\\]\nwhere $P$ is the gas pressure, $\\rho$ is the gas density (mass per unit volume), and $K$ is a constant throughout the atmosphere. Assume that the atmosphere is sufficiently thin (compared to $R$ ) that the gravitational acceleration can be taken to be a constant.\nUse the equation of hydrostatic equilibrium to derive the pressure as a function of height $z$ above the surface of the planet. Take the pressure at the surface to be $P_{0}$.",
+    "answer": "\\left[P_{0}^{2 / 5}-\\frac{2}{5} g K^{-3 / 5} z\\right]^{5 / 2}"
+}

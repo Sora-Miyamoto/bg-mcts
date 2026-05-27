@@ -1,0 +1,4 @@
+{
+    "problem": "Find a solution of $\\ddot{x}+4 x=\\cos (2 t)$, solving for $x(t)$, by using the ERF on a complex replacement. The ERF (Exponential Response Formula) states that a solution to $p(D) x=A e^{r t}$ is given by $x_{p}=A \\frac{e^{r t}}{p(r)}$, as long as $\\left.p (r\\right) \\neq 0$). The ERF with resonance assumes that $p(r)=0$ and states that a solution to $p(D) x=A e^{r t}$ is given by $x_{p}=A \\frac{t e^{r t}}{p^{\\prime}(r)}$, as long as $\\left.p^{\\prime} ( r\\right) \\neq 0$.",
+    "answer": "\\frac{t}{4} \\sin (2 t)"
+}

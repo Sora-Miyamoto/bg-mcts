@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A galaxy is found to have a rotation curve, $v(r)$, given by\n\\[\nv(r)=\\frac{\\left(\\frac{r}{r_{0}}\\right)}{\\left(1+\\frac{r}{r_{0}}\\right)^{3 / 2}} v_{0}\n\\]\nwhere $r$ is the radial distance from the center of the galaxy, $r_{0}$ is a constant with the dimension of length, and $v_{0}$ is another constant with the dimension of speed. The rotation curve is defined as the orbital speed of test stars in circular orbit at radius $r$.\n\nFind an expression for $\\omega(r)$, where $\\omega$ is the angular velocity.  The constants $v_{0}$ and $r_{0}$ will appear in your answer.",
+    "answer": "\\frac{v_{0}}{r_{0}} \\frac{1}{\\left(1+r / r_{0}\\right)^{3 / 2}}"
+}

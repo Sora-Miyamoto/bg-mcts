@@ -1,0 +1,6 @@
+{
+    "problem": "Find the number of ordered pairs $(x,y)$, where both $x$ and $y$ are integers between $-100$ and $100$, inclusive, such that $12x^{2}-xy-6y^{2}=0$.",
+    "answer": "117",
+    "year": 2025,
+    "url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_4"
+}

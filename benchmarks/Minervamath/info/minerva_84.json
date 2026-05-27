@@ -1,0 +1,4 @@
+{
+    "problem": "Rewrite the function $\\cos (\\pi t)-\\sqrt{3} \\sin (\\pi t)$ in the form $A \\cos (\\omega t-\\phi)$. It may help to begin by drawing a right triangle with sides $a$ and $b$.",
+    "answer": "2 \\cos (\\pi t+\\pi / 3)"
+}

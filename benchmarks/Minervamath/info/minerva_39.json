@@ -1,0 +1,4 @@
+{
+    "problem": "For a gas supported by degenerate electron pressure, the pressure is given by:\n\\[\nP=K \\rho^{5 / 3}\n\\]\nwhere $K$ is a constant and $\\rho$ is the mass density. If a star is totally supported by degenerate electron pressure, use a dimensional analysis of the equation of hydrostatic equilibrium:\n\\[\n\\frac{d P}{d r}=-g \\rho\n\\]\nto determine how the radius of such a star depends on its mass, $M$.  Specifically, you will find that $R$ is proportional to some power of $M$; what is that power?",
+    "answer": "-1./3"
+}

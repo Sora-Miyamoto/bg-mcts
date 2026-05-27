@@ -1,0 +1,4 @@
+{
+    "problem": "Calculate the minimum potential $(V)$ in volts (to 1 decimal place) which must be applied to a free electron so that it has enough energy to excite, upon impact, the electron in a hydrogen atom from its ground state to a state of $n=5$.",
+    "answer": "13.1"
+}

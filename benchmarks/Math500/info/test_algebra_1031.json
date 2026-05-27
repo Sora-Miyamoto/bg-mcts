@@ -1,0 +1,6 @@
+{
+    "problem": "What is the smallest real number $x$ in the domain of the function $$g(x) = \\sqrt{(x-3)^2-(x-8)^2}~?$$",
+    "answer": "\\frac{11}{2}",
+    "subject": "Algebra",
+    "level": 5
+}

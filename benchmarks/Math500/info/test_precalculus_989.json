@@ -1,0 +1,6 @@
+{
+    "problem": "Compute\n\\[\\frac{1}{\\cos^2 10^\\circ} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^2 40^\\circ}.\\]",
+    "answer": "12",
+    "subject": "Precalculus",
+    "level": 4
+}

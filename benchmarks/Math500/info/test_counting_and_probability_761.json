@@ -1,0 +1,6 @@
+{
+    "problem": "Roslyn has ten boxes. Five of the boxes contain pencils, four of the boxes contain pens, and two of the boxes contain both pens and pencils. How many boxes contain neither pens nor pencils?",
+    "answer": "3",
+    "subject": "Counting & Probability",
+    "level": 1
+}

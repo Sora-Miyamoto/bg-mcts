@@ -1,0 +1,6 @@
+{
+    "problem": "Find the maximum value of\n\\[\\frac{x - y}{x^4 + y^4 + 6}\\]over all real numbers $x$ and $y.$",
+    "answer": "\\frac{1}{4}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

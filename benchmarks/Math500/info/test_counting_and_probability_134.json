@@ -1,0 +1,6 @@
+{
+    "problem": "In how many ways can 8 people sit around a round table if 3 of the people -- Pierre, Rosa, and Thomas -- all want to sit together?  (Two seatings are considered the same if one is a rotation of the other.)",
+    "answer": "720",
+    "subject": "Counting & Probability",
+    "level": 4
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "Find the number of ordered pairs $(a,b)$ of integers such that $|a + bi| \\le 5.$",
+    "answer": "81",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

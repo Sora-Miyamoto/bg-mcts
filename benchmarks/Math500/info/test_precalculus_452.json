@@ -1,0 +1,6 @@
+{
+    "problem": "Find the curve defined by the equation\n\\[r^2 \\cos 2 \\theta = 4.\\](A) Line\n(B) Circle\n(C) Parabola\n(D) Ellipse\n(E) Hyperbola\n\nEnter the letter of the correct option.",
+    "answer": "\\text{(E)}",
+    "subject": "Precalculus",
+    "level": 2
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A formation energy of $2.0 \\mathrm{eV}$ is required to create a vacancy in a particular metal. At $800^{\\circ} \\mathrm{C}$ there is one vacancy for every 10,000 atoms.\n\nAt what temperature (in Celsius) will there be one vacancy for every 1,000 atoms? Format your answer as an integer.",
+    "answer": "928"
+}

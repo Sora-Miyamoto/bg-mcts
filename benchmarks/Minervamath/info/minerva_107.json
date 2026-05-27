@@ -1,0 +1,4 @@
+{
+    "problem": "Rewrite the function $\\operatorname{Re} \\frac{e^{i t}}{2+2 i}$ in the form $A \\cos (\\omega t-\\phi)$. It may help to begin by drawing a right triangle with sides $a$ and $b$.",
+    "answer": "\\frac{\\sqrt{2}}{4} \\cos (t-\\pi / 4)"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: In the following problems, take $a = \\ln 2$ and $b = \\pi / 3$. \n\nSubproblem 0: Given $a = \\ln 2$ and $b = \\pi / 3$, rewrite $e^{a+b i}$ in the form $x + yi$, where $x, y$ are real numbers. \n\n\nSolution: Using Euler's formula, we find that the answer is $\\boxed{1+\\sqrt{3} i}$.\n\nFinal answer: The final answer is 1+\\sqrt{3} i. I hope it is correct.\n\nSubproblem 1: Given $a = \\ln 2$ and $b = \\pi / 3$, rewrite $e^{2(a+b i)}$ in the form $x + yi$, where $x, y$ are real numbers.",
+    "answer": "-2+2 \\sqrt{3} i"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider a circuit in which a voltage source of voltage in $v_{i}(t)$ is connected in series with an inductor $L$ and capacitor $C$.  We consider the voltage across the capacitor $v_{o}(t)$ to be the output of the system.\nBoth $v_{i}(t)$ and $v_{o}(t)$ share ground reference.\n\nWrite the governing differential equation for this circuit.",
+    "answer": "\\frac{d^{2} v_{o}}{d t^{2}}+\\frac{v_{o}}{L C}=\\frac{v_{i}}{L C}"
+}

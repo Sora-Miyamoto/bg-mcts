@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the market for apple juice. In this market, the supply curve is given by $Q_{S}=$ $10 P_{J}-5 P_{A}$ and the demand curve is given by $Q_{D}=100-15 P_{J}+10 P_{T}$, where $J$ denotes apple juice, $A$ denotes apples, and $T$ denotes tea.\n\nSubproblem 0: Assume that $P_{A}$ is fixed at $\\$ 1$ and $P_{T}=5$. Calculate the equilibrium price in the apple juice market.\n\n\nSolution: We have the system of equations $Q=10 P_{J}-5 \\cdot 1$ and $Q=100-15 P_{J}+10 \\cdot 5$. Solving for $P_{J}$ we get that $P_{J}=\\boxed{6.2}$.\n\nFinal answer: The final answer is 6.2. I hope it is correct.\n\nSubproblem 1: Assume that $P_{A}$ is fixed at $\\$ 1$ and $P_{T}=5$. Calculate the equilibrium quantity in the apple juice market.",
+    "answer": "57"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "Find the modulo $7$ remainder of the sum $1+3+5+7+9+\\dots+195+197+199.$",
+    "answer": "4",
+    "subject": "Number Theory",
+    "level": 4
+}

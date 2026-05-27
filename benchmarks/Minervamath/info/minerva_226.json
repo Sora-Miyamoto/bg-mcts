@@ -1,0 +1,4 @@
+{
+    "problem": "A slab of plate glass containing dissolved helium (He) is placed in a vacuum furnace at a temperature of $400^{\\circ} \\mathrm{C}$ to remove the helium from the glass. Before vacuum treatment, the concentration of helium is constant throughout the glass. After 10 minutes in vacuum at $400^{\\circ} \\mathrm{C}$, at what depth (in $\\mu \\mathrm{m}$) from the surface of the glass has the concentration of helium decreased to $1 / 3$ of its initial value? The diffusion coefficient of helium in the plate glass at the processing temperature has a value of $3.091 \\times 10^{-6} \\mathrm{~cm}^{2} / \\mathrm{s}$.",
+    "answer": "258"
+}

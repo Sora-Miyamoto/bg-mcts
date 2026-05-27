@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: In Cambridge, shoppers can buy apples from two sources: a local orchard, and a store that ships apples from out of state. The orchard can produce up to 50 apples per day at a constant marginal cost of 25 cents per apple. The store can supply any remaining apples demanded, at a constant marginal cost of 75 cents per unit. When apples cost 75 cents per apple, the residents of Cambridge buy 150 apples in a day.\n\nAssume that the city of Cambridge sets the price of apples within its borders. What price should it set, in cents?",
+    "answer": "75"
+}

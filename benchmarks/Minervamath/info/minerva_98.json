@@ -1,0 +1,4 @@
+{
+    "problem": "Find a solution of $\\ddot{x}+3 \\dot{x}+2 x=t e^{-t}$ in the form $x(t)=u(t) e^{-t}$ for some function $u(t)$.  Use $C$ for an arbitrary constant, should it arise.",
+    "answer": "\\left(\\frac{t^{2}}{2}-t+C\\right) e^{-t}"
+}

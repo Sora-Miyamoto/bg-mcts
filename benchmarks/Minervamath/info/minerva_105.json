@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the exponential function $e^{-t / 2} \\cos (3 t)$, which we will assume is a solution of the differential equation $m \\ddot{x}+b \\dot{x}+k x=0$. \n\nSubproblem 0: What is $b$ in terms of $m$? Write $b$ as a constant times a function of $m$.\n\n\nSolution: We can write $e^{-t / 2} \\cos (3 t)=\\operatorname{Re} e^{(-1 / 2 \\pm 3 i) t}$, so $p(s)=m s^{2}+b s+k$ has solutions $-\\frac{1}{2} \\pm 3 i$. This means $p(s)=m(s+1 / 2-3 i)(s+1 / 2+3 i)=m\\left(s^{2}+s+\\frac{37}{4}\\right)$. Then $b=\\boxed{m}$, \n\nFinal answer: The final answer is m. I hope it is correct.\n\nSubproblem 1: What is $k$ in terms of $m$? Write $k$ as a constant times a function of $m$.",
+    "answer": "\\frac{37}{4} m"
+}

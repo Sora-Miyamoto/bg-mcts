@@ -1,0 +1,4 @@
+{
+    "problem": "The Sun's effective temperature, $T_{e}$, is 5800 Kelvin, and its radius is $7 \\times 10^{10} \\mathrm{~cm}\\left(7 \\times 10^{8}\\right.$ m). Compute the luminosity (power output) of the Sun in erg/s. Treat the Sun as a blackbody radiator, and give your answer to one significant figure.",
+    "answer": "4e33"
+}

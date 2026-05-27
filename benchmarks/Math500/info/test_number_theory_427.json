@@ -1,0 +1,6 @@
+{
+    "problem": "If $A$ is the sum of the positive divisors of $500$, what is the sum of the distinct prime divisors of $A$?",
+    "answer": "25",
+    "subject": "Number Theory",
+    "level": 5
+}

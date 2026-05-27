@@ -1,0 +1,6 @@
+{
+    "problem": "Two fair, 6-sided dice are thrown.  What is the probability that the product of the two numbers is a multiple of 5?  Express your answer as a common fraction.",
+    "answer": "\\frac{11}{36}",
+    "subject": "Counting & Probability",
+    "level": 4
+}

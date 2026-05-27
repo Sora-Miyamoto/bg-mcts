@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the differential equation $\\ddot{x}+\\omega^{2} x=0$. \\\\\n\nA differential equation $m \\ddot{x}+b \\dot{x}+k x=0$ (where $m, b$, and $k$ are real constants, and $m \\neq 0$ ) has corresponding characteristic polynomial $p(s)=m s^{2}+b s+k$.\\\\\nWhat is the characteristic polynomial $p(s)$ of $\\ddot{x}+\\omega^{2} x=0$?",
+    "answer": "s^{2}+\\omega^{2}"
+}

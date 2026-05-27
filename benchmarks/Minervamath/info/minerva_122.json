@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the mass \\(m\\) sliding horizontally under the influence of the applied force \\(f\\) and a friction force which can be approximated by a linear friction element with coefficient \\(b\\). \n\nSubproblem 0: Formulate the state-determined equation of motion for the velocity \\(v\\) as output and the force \\(f\\) as input.\n\n\nSolution: The equation of motion is\n\\[\n\\boxed{m \\frac{d v}{d t}+b v=f} \\quad \\text { or } \\quad \\frac{d v}{d t}=-\\frac{b}{m} v+\\frac{1}{m} f\n\\]\n\nFinal answer: The final answer is m \\frac{d v}{d t}+b v=f. I hope it is correct.\n\nSubproblem 1: Consider the case where:\n\\[\n\\begin{aligned}\nm &=1000 \\mathrm{~kg} \\\\\nb &=100 \\mathrm{~N} / \\mathrm{m} / \\mathrm{s}\n\\end{aligned}\n\\]\nWhat is the steady-state velocity \\(v_{s s}\\) when the input is a constant force of 10 Newtons? Answer in meters per second.",
+    "answer": "0.10"
+}

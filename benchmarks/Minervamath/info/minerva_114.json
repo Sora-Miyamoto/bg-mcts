@@ -1,0 +1,4 @@
+{
+    "problem": "A signal \\(x(t)\\) is given by\n\\[\nx(t)=\\left(e^{-t}-e^{-1}\\right)\\left(u_{s}(t)-u_{s}(t-1)\\right)\n\\]\nCalculate its Laplace transform \\(X(s)\\). Make sure to clearly show the steps in your calculation.",
+    "answer": "\\frac{1}{s+1}-\\frac{e^{-1}}{s}-\\frac{e^{-1} e^{-s}}{s+1}+\\frac{e^{-1} e^{-s}}{s}"
+}

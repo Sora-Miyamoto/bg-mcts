@@ -1,0 +1,4 @@
+{
+    "problem": "Calculate the volume in mL of $0.25 \\mathrm{M} \\mathrm{NaI}$ that would be needed to precipitate all the $\\mathrm{g}^{2+}$ ion from $45 \\mathrm{~mL}$ of a $0.10 \\mathrm{M} \\mathrm{Hg}\\left(\\mathrm{NO}_{3}\\right)_{2}$ solution according to the following reaction:\n\\[\n2 \\mathrm{NaI}(\\mathrm{aq})+\\mathrm{Hg}\\left(\\mathrm{NO}_{3}\\right)_{2}(\\mathrm{aq}) \\rightarrow \\mathrm{HgI}_{2}(\\mathrm{~s})+2 \\mathrm{NaNO}_{3}(\\mathrm{aq})\n\\]",
+    "answer": "36"
+}

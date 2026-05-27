@@ -1,0 +1,4 @@
+{
+    "problem": "The Spitzer Space Telescope has an effective diameter of $85 \\mathrm{cm}$, and a typical wavelength used for observation of $5 \\mu \\mathrm{m}$, or 5 microns. Based on this information, compute an estimate for the angular resolution of the Spitzer Space telescope in arcseconds.",
+    "answer": "1.2"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: For each of the functions $y(t)$, find the Laplace Transform $Y(s)$ :\n\n$y(t)=e^{-a t}$",
+    "answer": "\\frac{1}{s+a}"
+}

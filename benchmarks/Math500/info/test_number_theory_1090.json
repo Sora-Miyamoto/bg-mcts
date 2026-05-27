@@ -1,0 +1,6 @@
+{
+    "problem": "If $\\frac{a}{b}$ is the probability that the reciprocal of a randomly selected positive odd integer less than 2010 gives a terminating decimal, with $a$ and $b$ being relatively prime positive integers, what is $a+b$?",
+    "answer": "202",
+    "subject": "Number Theory",
+    "level": 5
+}

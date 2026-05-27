@@ -1,0 +1,6 @@
+{
+    "problem": "Suppose that I have $6$ different books, $2$ of which are math books. In how many ways can I stack my $6$ books on a shelf if I do not want the math books to be next to each other?",
+    "answer": "480",
+    "subject": "Counting & Probability",
+    "level": 4
+}

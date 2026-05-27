@@ -1,0 +1,6 @@
+{
+    "problem": "The set of points $(x,y,z)$ that satisfy\n\\[2x = 3y = -z\\]is a line.\n\nThe set of points $(x,y,z)$ that satisfy\n\\[6x = -y = -4z\\]is another line.\n\nFind the angle between these lines, in degrees.",
+    "answer": "90^\\circ",
+    "subject": "Precalculus",
+    "level": 4
+}

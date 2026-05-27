@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the following \"mixing problem\": A tank holds $V$ liters of salt water. Suppose that a saline solution with concentration of $c \\mathrm{gm} /$ liter is added at the rate of $r$ liters/minute. A mixer keeps the salt essentially uniformly distributed in the tank. A pipe lets solution out of the tank at the same rate of $r$ liters/minute. \n\nWrite down the differential equation for the amount of salt in the tank in standard linear form. [Not the concentration!] Use the notation $x(t)$ for the number of grams of salt in the tank at time $t$.",
+    "answer": "x^{\\prime}+\\frac{r}{V} x-r c=0"
+}

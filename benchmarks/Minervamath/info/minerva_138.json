@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: In a parallel universe, the Boston baseball team made the playoffs.\n\nManny Relativirez hits the ball and starts running towards first base at speed $\\beta$. How fast is he running, given that he sees third base $45^{\\circ}$ to his left (as opposed to straight to his left before he started running)? Assume that he is still very close to home plate. Give your answer in terms of the speed of light, $c$.",
+    "answer": "\\frac{1}{\\sqrt{2}}c"
+}

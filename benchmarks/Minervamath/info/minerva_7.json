@@ -1,0 +1,4 @@
+{
+    "problem": "Find the theoretical limiting angular resolution (in arcsec) of a commercial 8-inch (diameter) optical telescope being used in the visible spectrum (at $\\lambda=5000 \\AA=500 \\mathrm{~nm}=5 \\times 10^{-5} \\mathrm{~cm}=5 \\times 10^{-7} \\mathrm{~m}$).  Answer in arcseconds to two significant figures.",
+    "answer": "0.49"
+}

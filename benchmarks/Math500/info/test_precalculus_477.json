@@ -1,0 +1,6 @@
+{
+    "problem": "The points $O,$ $A,$ and $B$ satisfy $\\overrightarrow{OA} = \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix}$ and $\\overrightarrow{OB} = \\begin{pmatrix} -3 \\\\ -2 \\\\ 1 \\end{pmatrix}.$  Find the area of triangle $OAB.$",
+    "answer": "3 \\sqrt{5}",
+    "subject": "Precalculus",
+    "level": 3
+}

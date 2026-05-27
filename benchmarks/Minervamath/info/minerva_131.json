@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Here we consider a system described by the differential equation\n\\[\n\\ddot{y}+10 \\dot{y}+10000 y=0 .\n\\]\n\nWhat is the value of the natural frequency \\(\\omega_{n}\\) in radians per second?",
+    "answer": "100"
+}

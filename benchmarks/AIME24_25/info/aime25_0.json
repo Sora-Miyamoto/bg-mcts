@@ -1,0 +1,6 @@
+{
+    "problem": "Find the sum of all integer bases $b>9$ for which $17_{b}$ is a divisor of $97_{b}$.",
+    "answer": "70",
+    "year": 2025,
+    "url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_I_Problems/Problem_1"
+}

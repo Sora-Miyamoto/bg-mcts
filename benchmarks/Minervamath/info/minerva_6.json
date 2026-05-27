@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A collimated light beam propagating in water is incident on the surface (air/water interface) at an angle $\\theta_w$ with respect to the surface normal.\n\nSubproblem 0: If the index of refraction of water is $n=1.3$, find an expression for the angle of the light once it emerges from the water into the air, $\\theta_a$, in terms of $\\theta_w$.\n\n\nSolution: Using Snell's law, $1.3 \\sin{\\theta_w} = \\sin{\\theta_a}$. So $\\theta_a = \\boxed{\\arcsin{1.3 \\sin{\\theta_w}}}$.\n\nFinal answer: The final answer is \\arcsin{1.3 \\sin{\\theta_w}}. I hope it is correct.\n\nSubproblem 1: What is the critical angle, i.e., the critical value of $\\theta_w$ such that the light will not emerge from the water?  Leave your answer in terms of inverse trigonometric functions; i.e., do not evaluate the function.",
+    "answer": "np.arcsin(10/13)"
+}

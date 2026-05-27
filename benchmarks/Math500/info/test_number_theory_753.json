@@ -1,0 +1,6 @@
+{
+    "problem": "What integer $n$ satisfies $0\\le n<18$ and $$n\\equiv -11213141\\pmod{18}~?$$",
+    "answer": "13",
+    "subject": "Number Theory",
+    "level": 4
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "If the Bohr energy levels scale as $Z^{2}$, where $Z$ is the atomic number of the atom (i.e., the charge on the nucleus), estimate the wavelength of a photon that results from a transition from $n=3$ to $n=2$ in Fe, which has $Z=26$. Assume that the Fe atom is completely stripped of all its electrons except for one.  Give your answer in Angstroms, to two significant figures.",
+    "answer": "9.6"
+}

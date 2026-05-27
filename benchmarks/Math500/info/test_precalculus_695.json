@@ -1,0 +1,6 @@
+{
+    "problem": "What is the range of the function $y=\\log_2 (\\sqrt{\\sin x})$ for $0^\\circ< x < 180^\\circ$?",
+    "answer": "(-\\infty, 0]",
+    "subject": "Precalculus",
+    "level": 2
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "Consider the function \\[ f(x) =\n\\begin{cases}\nax^2 & \\text{if } x \\geq a,\\\\\nax +2a& \\text{if } x <a,\n\\end{cases}\n\\]where $a$ is some number.\n\nWhat is the largest value of $a$ such that the graph of $y=f(x)$ intersects every horizontal line at least once?",
+    "answer": "2",
+    "subject": "Algebra",
+    "level": 5
+}

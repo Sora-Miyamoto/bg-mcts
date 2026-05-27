@@ -1,0 +1,6 @@
+{
+    "problem": "$n$ fair 6-sided dice are simultaneously rolled. The probability that exactly two of them show a number other than 1 is $\\frac{25}{216}$. Find $n$.",
+    "answer": "4",
+    "subject": "Counting & Probability",
+    "level": 4
+}

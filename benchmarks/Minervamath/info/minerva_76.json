@@ -1,0 +1,4 @@
+{
+    "problem": "Subproblem 0: For $\\omega \\geq 0$, find $A$ such that $A \\cos (\\omega t)$ is a solution of $\\ddot{x}+4 x=\\cos (\\omega t)$.\n\n\nSolution: If $x=A \\cos (\\omega t)$, then taking derivatives gives us $\\ddot{x}=-\\omega^{2} A \\cos (\\omega t)$, and $\\ddot{x}+4 x=\\left(4-\\omega^{2}\\right) A \\cos (\\omega t)$. Then $A=\\boxed{\\frac{1}{4-\\omega^{2}}}$. \n\nFinal answer: The final answer is \\frac{1}{4-\\omega^{2}}. I hope it is correct.\n\nSubproblem 1: For what value of $\\omega$ does resonance occur?",
+    "answer": "2"
+}

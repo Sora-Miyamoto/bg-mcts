@@ -1,0 +1,4 @@
+{
+    "problem": "You wish to dope a single crystal of silicon (Si) with boron (B). The specification reads $5 \\times 10^{16}$ boron atoms/ $\\mathrm{cm}^{3}$ at a depth of $25 \\mu \\mathrm{m}$ from the surface of the silicon. What must be the effective concentration of boron in units of atoms/ $\\mathrm{cm}^{3}$ if you are to meet this specification within a time of 90 minutes? Round your answer to 4 decimal places. Assume that initially the concentration of boron in the silicon crystal is zero. The diffusion coefficient of boron in silicon has a value of $7.23 \\times 10^{-9} \\mathrm{~cm}^{2} / \\mathrm{s}$ at the processing temperature.",
+    "answer": "0.7773"
+}

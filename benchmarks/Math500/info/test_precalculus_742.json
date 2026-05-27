@@ -1,0 +1,6 @@
+{
+    "problem": "Evaluate\n\\[\\sin (\\arcsin 0.4 + \\arcsin 0.5) \\cdot \\sin (\\arcsin 0.5 - \\arcsin 0.4).\\]",
+    "answer": "\\frac{9}{100}",
+    "subject": "Precalculus",
+    "level": 2
+}

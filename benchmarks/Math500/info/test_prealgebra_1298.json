@@ -1,0 +1,6 @@
+{
+    "problem": "Simplify the following expression in $x$: $$19x + 1 - 4x - 81.$$",
+    "answer": "15x - 80",
+    "subject": "Prealgebra",
+    "level": 2
+}

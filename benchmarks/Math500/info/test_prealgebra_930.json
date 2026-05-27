@@ -1,0 +1,6 @@
+{
+    "problem": "A regular octagon has the same perimeter as the regular hexagon shown here with side length 16 cm.  How long is each side of the octagon? [asy]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); label(\"16 cm\", M, N);[/asy]",
+    "answer": "12",
+    "subject": "Prealgebra",
+    "level": 2
+}

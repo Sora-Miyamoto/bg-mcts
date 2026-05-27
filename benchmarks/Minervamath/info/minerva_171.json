@@ -1,0 +1,4 @@
+{
+    "problem": "Magnesium (Mg) has the following isotopic distribution:\n\\[\n\\begin{array}{ll}\n24_{\\mathrm{Mg}} & 23.985 \\mathrm{amu} \\text { at } 0.7870 \\text { fractional abundance } \\\\\n25_{\\mathrm{Mg}} & 24.986 \\mathrm{amu} \\text { at } 0.1013 \\text { fractional abundance } \\\\\n26_{\\mathrm{Mg}} & 25.983 \\mathrm{amu} \\text { at } 0.1117 \\text { fractional abundance }\n\\end{array}\n\\]\nWhat is the atomic weight of magnesium (Mg) (to 3 decimal places) according to these data?",
+    "answer": "24.310"
+}

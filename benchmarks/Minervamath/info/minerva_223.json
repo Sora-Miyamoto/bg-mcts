@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The number of electron-hole pairs in intrinsic germanium (Ge) is given by:\n\\[\nn_{i}=9.7 \\times 10^{15} \\mathrm{~T}^{3 / 2} \\mathrm{e}^{-\\mathrm{E}_{g} / 2 \\mathrm{KT}}\\left[\\mathrm{cm}^{3}\\right] \\quad\\left(\\mathrm{E}_{\\mathrm{g}}=0.72 \\mathrm{eV}\\right)\n\\]\n\nWhat is the density of pairs at $\\mathrm{T}=20^{\\circ} \\mathrm{C}$, in inverse $\\mathrm{cm}^3$? Please format your answer as $n \\times 10^x$ where n is to 2 decimal places.",
+    "answer": "3.21e13"
+}

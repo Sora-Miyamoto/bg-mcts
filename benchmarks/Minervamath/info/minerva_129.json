@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: You are given an equation of motion of the form:\n\\[\n\\dot{y}+5 y=10 u\n\\]\n\nWhat is the time constant for this system?",
+    "answer": "0.2"
+}

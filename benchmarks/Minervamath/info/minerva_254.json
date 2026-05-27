@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Moldavia is a small country that currently trades freely in the world barley market. Demand and supply for barley in Moldavia is governed by the following schedules:\nDemand: $Q^{D}=4-P$\nSupply: $Q^{S}=P$\nThe world price of barley is $\\$ 1 /$ bushel.\n\nCalculate the free trade equilibrium price of barley in Moldavia, in dollars per bushel.",
+    "answer": "1"
+}

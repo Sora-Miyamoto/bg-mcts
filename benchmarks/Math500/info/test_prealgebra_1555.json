@@ -1,0 +1,6 @@
+{
+    "problem": "Express $5^5\\div5^4-5^3+5^2\\cdot5^1$ as an integer.",
+    "answer": "5",
+    "subject": "Prealgebra",
+    "level": 2
+}

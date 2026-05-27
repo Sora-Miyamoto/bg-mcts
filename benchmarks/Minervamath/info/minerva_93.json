@@ -1,0 +1,4 @@
+{
+    "problem": "Find a purely sinusoidal solution of $\\frac{d^{4} x}{d t^{4}}-x=\\cos (2 t)$.",
+    "answer": "\\frac{\\cos (2 t)}{15}"
+}

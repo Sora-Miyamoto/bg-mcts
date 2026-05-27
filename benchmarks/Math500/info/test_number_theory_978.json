@@ -1,0 +1,6 @@
+{
+    "problem": "For how many positive integers $n>1$ is it true that $2^{24}$ is a perfect $n^{\\text{th}}$ power?",
+    "answer": "7",
+    "subject": "Number Theory",
+    "level": 4
+}

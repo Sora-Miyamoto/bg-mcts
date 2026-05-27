@@ -1,0 +1,6 @@
+{
+    "problem": "Find the sum of all complex solutions of the equation\n\\[\\frac{1}{x^2 - 1} + \\frac{2}{x^2 - 2} + \\frac{3}{x^2 - 3} + \\frac{4}{x^2 - 4} = 2010x - 4.\\]",
+    "answer": "\\frac{2}{1005}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

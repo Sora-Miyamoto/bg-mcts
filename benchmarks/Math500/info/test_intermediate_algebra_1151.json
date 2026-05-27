@@ -1,0 +1,6 @@
+{
+    "problem": "Find the maximum value of\n\\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]where $-1 \\le x,$ $y \\le 1.$",
+    "answer": "1",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

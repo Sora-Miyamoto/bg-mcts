@@ -1,0 +1,4 @@
+{
+    "problem": "An African government is trying to come up with good policy regarding the hunting of oryx. They are using the following model: the oryx population has a natural growth rate of $k$, and we suppose a constant harvesting rate of $a$ oryxes per year.\nWrite down an ordinary differential equation describing the evolution of the oryx population given the dynamics above, using $x(t)$ to denote the oryx population (the number of individual oryx(es)) at time $t$, measured in years.",
+    "answer": "\\frac{d x}{d t}=k x-a"
+}

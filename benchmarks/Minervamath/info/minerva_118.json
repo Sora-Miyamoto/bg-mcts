@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: For each of the functions $y(t)$, find the Laplace Transform $Y(s)$ :\n\nSubproblem 0: $y(t)=e^{-a t}$\n\n\nSolution: This function is one of the most widely used in dynamic systems, so we memorize its transform!\n\\[\nY(s)=\\boxed{\\frac{1}{s+a}}\n\\]\n\nFinal answer: The final answer is \\frac{1}{s+a}. I hope it is correct.\n\nSubproblem 1: $y(t)=e^{-\\sigma t} \\sin \\omega_{d} t$\n\n\nSolution: \\[\nY(s)=\\boxed{\\frac{\\omega_{d}}{(s+\\sigma)^{2}+\\omega_{d}^{2}}}\n\\]\n\nFinal answer: The final answer is \\frac{\\omega_{d}}{(s+\\sigma)^{2}+\\omega_{d}^{2}}. I hope it is correct.\n\nSubproblem 2: $y(t)=e^{-\\sigma t} \\cos \\omega_{d} t$",
+    "answer": "\\frac{s+\\sigma}{(s+\\sigma)^{2}+\\omega_{d}^{2}}"
+}

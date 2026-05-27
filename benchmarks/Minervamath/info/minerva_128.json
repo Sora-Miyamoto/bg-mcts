@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: This problem considers the simple RLC circuit, in which a voltage source $v_{i}$ is in series with a resistor $R$, inductor $L$, and capacitor $C$.  We measure the voltage $v_{o}$ across the capacitor.  $v_{i}$ and $v_{o}$ share a ground reference.\n\nCalculate the transfer function \\(V_{o}(s) / V_{i}(s)\\).",
+    "answer": "\\frac{1}{L C s^{2}+R C s+1}"
+}

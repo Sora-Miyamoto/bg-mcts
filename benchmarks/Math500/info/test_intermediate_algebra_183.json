@@ -1,0 +1,6 @@
+{
+    "problem": "Let $a,$ $b,$ and $c$ be positive real numbers.  Find the set of all possible values of\n\\[\\frac{c}{a} + \\frac{a}{b + c} + \\frac{b}{c}.\\]",
+    "answer": "(2,\\infty)",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

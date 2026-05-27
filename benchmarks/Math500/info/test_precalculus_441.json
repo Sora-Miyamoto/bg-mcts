@@ -1,0 +1,6 @@
+{
+    "problem": "If $\\mathbf{a}$ and $\\mathbf{b}$ are vectors such that $\\|\\mathbf{a}\\| = 2,$ $\\|\\mathbf{b}\\| = 7,$ and\n\\[\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 3 \\\\ 2 \\\\ 6 \\end{pmatrix},\\]then find the smallest possible angle between $\\mathbf{a}$ and $\\mathbf{b},$ in degrees.",
+    "answer": "30^\\circ",
+    "subject": "Precalculus",
+    "level": 2
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "In right triangle $ABC$ with $\\angle B = 90^\\circ$, we have $\\sin A = 2\\cos A$.  What is $\\tan A$?",
+    "answer": "2",
+    "subject": "Geometry",
+    "level": 3
+}

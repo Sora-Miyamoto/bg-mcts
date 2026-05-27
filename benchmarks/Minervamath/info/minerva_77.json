@@ -1,0 +1,4 @@
+{
+    "problem": "Subproblem 0: Find a purely sinusoidal solution of $\\frac{d^{4} x}{d t^{4}}-x=\\cos (2 t)$.\n\n\nSolution: We choose an exponential input function whose real part is $\\cos (2 t)$, namely $e^{2 i t}$. Since $p(s)=s^{4}-1$ and $p(2 i)=15 \\neq 0$, the exponential response formula yields the solution $\\frac{e^{2 i t}}{15}$. A sinusoidal solution to the original equation is given by the real part: $\\boxed{\\frac{\\cos (2 t)}{15}}$. \n\nFinal answer: The final answer is \\frac{\\cos (2 t)}{15}. I hope it is correct.\n\nSubproblem 1: Find the general solution to $\\frac{d^{4} x}{d t^{4}}-x=\\cos (2 t)$, denoting constants as $C_{1}, C_{2}, C_{3}, C_{4}$.",
+    "answer": "\\frac{\\cos (2 t)}{15}+C_{1} e^{t}+C_{2} e^{-t}+C_{3} \\cos (t)+C_{4} \\sin (t)"
+}

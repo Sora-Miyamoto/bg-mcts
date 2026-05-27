@@ -1,0 +1,4 @@
+{
+    "problem": "A galaxy moves directly away from us with speed $v$, and the wavelength of its $\\mathrm{H} \\alpha$ line is observed to be $6784 \\AA$. The rest wavelength of $\\mathrm{H} \\alpha$ is $6565 \\AA$. Find $v/c$.",
+    "answer": "0.033"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "Given that $a,$ $b,$ $c,$ $d,$ $e$ are real numbers such that\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}Determine the maximum value of $e.$",
+    "answer": "\\frac{16}{5}",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

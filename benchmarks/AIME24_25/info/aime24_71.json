@@ -1,0 +1,6 @@
+{
+    "problem": "Consider the paths of length $16$ that follow the lines from the lower left corner to the upper right corner on an $8\\times 8$ grid. Find the number of such paths that change direction exactly four times, as in the examples shown below.",
+    "answer": "294",
+    "year": "2024",
+    "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_6"
+}

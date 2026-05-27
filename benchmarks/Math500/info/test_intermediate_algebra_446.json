@@ -1,0 +1,6 @@
+{
+    "problem": "Find the minimum value of\n\\[\\frac{(x + 5)(x + 2)}{x + 1}\\]for $x > 0.$",
+    "answer": "9",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

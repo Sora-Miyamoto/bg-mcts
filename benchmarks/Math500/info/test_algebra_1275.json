@@ -1,0 +1,6 @@
+{
+    "problem": "Simplify and write the result with a rational denominator: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "answer": "\\frac{\\sqrt{3}}{3}",
+    "subject": "Algebra",
+    "level": 3
+}

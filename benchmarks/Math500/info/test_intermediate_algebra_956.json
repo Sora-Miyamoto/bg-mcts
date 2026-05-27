@@ -1,0 +1,6 @@
+{
+    "problem": "The polynomial $x^3 - 3x^2 + 4x - 1$ is a factor of $x^9 + px^6 + qx^3 + r.$  Enter the ordered triple $(p,q,r).$",
+    "answer": "(6,31,-1)",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

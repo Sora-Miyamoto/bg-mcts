@@ -1,0 +1,6 @@
+{
+    "problem": "The sum of the digits of a two-digit number is $13.$ The difference between the number and the number with its digits reversed is $27.$ What is the sum of the original number and the number with its digits reversed?",
+    "answer": "143",
+    "subject": "Algebra",
+    "level": 2
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "An eclipsing binary consists of two stars of different radii and effective temperatures. Star 1 has radius $R_{1}$ and $T_{1}$, and Star 2 has $R_{2}=0.5 R_{1}$ and $T_{2}=2 T_{1}$. Find the change in bolometric magnitude of the binary, $\\Delta m_{\\text {bol }}$, when the smaller star is behind the larger star. (Consider only bolometric magnitudes so you don't have to worry about color differences.)",
+    "answer": "1.75"
+}

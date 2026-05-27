@@ -1,0 +1,6 @@
+{
+    "problem": "There exist real numbers $x$ and $y$, both greater than 1, such that $\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$. Find $xy$.",
+    "answer": "025",
+    "year": "2024",
+    "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_I_Problems/Problem_2"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the 3-level $\\mathbf{H}$ matrix\n\\[\n\\mathbf{H}=\\hbar \\omega\\left(\\begin{array}{ccc}\n10 & 1 & 0 \\\\\n1 & 0 & 2 \\\\\n0 & 2 & -10\n\\end{array}\\right)\n\\]\nLabel the eigen-energies and eigen-functions according to the dominant basis state character. The $\\widetilde{10}$ state is the one dominated by the zero-order state with $E^{(0)}=10, \\tilde{0}$ by $E^{(0)}=0$, and $-\\widetilde{10}$ by $E^{(0)}=-10$ (we will work in units where $\\hbar \\omega = 1$, and can be safely ignored).\n\nUse non-degenerate perturbation theory to derive the energy $E_{\\widetilde{10}}$.  Carry out your calculations to second order in the perturbing Hamiltonian, and round to one decimal place.",
+    "answer": "10.1"
+}

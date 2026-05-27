@@ -1,0 +1,6 @@
+{
+    "problem": "What's the largest eight-digit base 2 integer?  Express your answer in base 10.",
+    "answer": "255",
+    "subject": "Number Theory",
+    "level": 3
+}

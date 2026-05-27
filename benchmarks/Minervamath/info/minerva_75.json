@@ -1,0 +1,4 @@
+{
+    "problem": "Subproblem 0: Find the general solution of the differential equation $\\dot{x}+2 x=e^{t}$, using $c$ for the arbitrary constant of integration which will occur.\n\n\nSolution: We can use integrating factors to get $(u x)^{\\prime}=u e^{t}$ for $u=e^{2 t}$. Integrating yields $e^{2 t} x=e^{3 t} / 3+c$, or $x=\\boxed{\\frac{e^{t}} {3}+c e^{-2 t}}$. \n\nFinal answer: The final answer is \\frac{e^{t}} {3}+c e^{-2 t}. I hope it is correct.\n\nSubproblem 1: Find a solution of the differential equation $\\dot{x}+2 x=e^{t}$ of the form $w e^{t}$, where $w$ is a constant (which you should find).",
+    "answer": "e^{t} / 3"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Find a solution to the differential equation $\\ddot{x}+\\omega^{2} x=0$ satisfying the initial conditions $x(0)=x_{0}$ and $\\dot{x}(0)=\\dot{x}_{0}$.",
+    "answer": "x_{0} \\cos (\\omega t)+$ $\\dot{x}_{0} \\sin (\\omega t) / \\omega"
+}

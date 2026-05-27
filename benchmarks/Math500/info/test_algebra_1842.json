@@ -1,0 +1,6 @@
+{
+    "problem": "The operation @ is defined as $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ for simplified fractions $\\frac{p}{q}$.  What is the simplified value of $\\frac{7}{30}@\\frac{10}{21}$?",
+    "answer": "49",
+    "subject": "Algebra",
+    "level": 2
+}

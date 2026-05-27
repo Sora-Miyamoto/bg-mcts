@@ -1,0 +1,6 @@
+{
+    "problem": "Expand and simplify completely: \\begin{align*}\nx\\left(x(1+x)+2x\\right)-3(x^2-x+2)\n\\end{align*}",
+    "answer": "x^3+3x-6",
+    "subject": "Algebra",
+    "level": 3
+}

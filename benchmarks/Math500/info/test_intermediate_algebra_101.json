@@ -1,0 +1,6 @@
+{
+    "problem": "Solve\n\\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+    "answer": "10",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

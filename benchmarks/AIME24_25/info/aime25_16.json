@@ -1,0 +1,6 @@
+{
+    "problem": "Find the sum of all positive integers $n$ such that $n+2$ divides the product $3(n+3)(n^2+9)$.",
+    "answer": "49",
+    "year": 2025,
+    "url": "https://artofproblemsolving.com/wiki/index.php/2025_AIME_II_Problems/Problem_2"
+}

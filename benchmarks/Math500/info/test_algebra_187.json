@@ -1,0 +1,6 @@
+{
+    "problem": "Suppose that $f$ is a polynomial such that \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\]What is the degree of $f$?",
+    "answer": "3",
+    "subject": "Algebra",
+    "level": 4
+}

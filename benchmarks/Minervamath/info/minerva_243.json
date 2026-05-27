@@ -1,0 +1,4 @@
+{
+    "problem": "Subproblem 0: Determine the inter-ionic equilibrium distance in meters between the sodium and chlorine ions in a sodium chloride molecule knowing that the bond energy is $3.84 \\mathrm{eV}$ and that the repulsive exponent is 8. Please format your answer as $n \\times 10^x$ where $n$ is to 1 decimal place.\n\n\nSolution: $\\mathrm{E}_{\\mathrm{equ}}=-3.84 \\mathrm{eV}=-3.84 \\times 1.6 \\times 10^{-19} \\mathrm{~J}=-\\frac{\\mathrm{e}^{2}}{4 \\pi \\varepsilon_{0} r_{0}}\\left(1-\\frac{1}{\\mathrm{n}}\\right)$\n\\\\\n$r_{0}=\\frac{\\left(1.6 \\times 10^{-19}\\right)^{2}}{4 \\pi 8.85 \\times 10^{-12} \\times 6.14 \\times 10^{-19}}\\left(1-\\frac{1}{8}\\right)= \n\\boxed{3.3e-10} \\mathrm{~m}$\n\nFinal answer: The final answer is 3.3e-10. I hope it is correct.\n\nSubproblem 1: At the equilibrium distance, how much (in percent) is the contribution to the attractive bond energy by electron shell repulsion?",
+    "answer": "12.5"
+}

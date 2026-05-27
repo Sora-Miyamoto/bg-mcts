@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Two lasers generate radiation of (1) $9.5 \\mu {m}$ and (2) $0.1 \\mu {m}$ respectively.\n\nSubproblem 0: Determine the photon energy (in eV, to two decimal places) of the laser generating radiation of $9.5 \\mu {m}$.\n\n\nSolution: \\[\n\\begin{aligned}\n{E} &={h} v=\\frac{{hc}}{\\lambda} {J} \\times \\frac{1 {eV}}{1.6 \\times 10^{-19} {~J}} \\\\\n{E}_{1} &=\\frac{{hc}}{9.5 \\times 10^{-6}} \\times \\frac{1}{1.6 \\times 10^{-19}} {eV}= \\boxed{0.13} {eV}\n\\end{aligned}\n\\]\n\nFinal answer: The final answer is 0.13. I hope it is correct.\n\nSubproblem 1: Determine the photon energy (in eV, to one decimal place) of the laser generating radiation of $0.1 \\mu {m}$.",
+    "answer": "12.4"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "The product of integers 240 and $k$ is a perfect cube. What is the smallest possible positive value of $k$?",
+    "answer": "900",
+    "subject": "Number Theory",
+    "level": 3
+}

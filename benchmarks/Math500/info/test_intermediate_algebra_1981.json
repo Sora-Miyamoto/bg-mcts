@@ -1,0 +1,6 @@
+{
+    "problem": "What is the domain of the function $f(x) = \\frac{2-x}{\\log(2-\\log(x-2))}$, where $\\log$ is the base $10$ logarithm function? Express your answer in interval notation.",
+    "answer": "(2,12) \\cup (12,102)",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

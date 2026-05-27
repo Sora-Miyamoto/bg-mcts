@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the differential equation. $\\ddot{x}+4 x=\\sin (3 t)$\n\nSubproblem 0: Find $A$ so that $A \\sin (3 t)$ is a solution of $\\ddot{x}+4 x=\\sin (3 t)$.\n\n\nSolution: We can find this by brute force. If $x=A \\sin (3 t)$, then $\\ddot{x}=-9 A \\sin (3 t)$, so $\\ddot{x}+4 x=-5 A \\sin (3 t)$. Therefore, when $A=\\boxed{-0.2}, x_{p}(t)=-\\sin (3 t) / 5$ is a solution of the given equation.\n\nFinal answer: The final answer is -0.2. I hope it is correct.\n\nSubproblem 1: What is the general solution, in the form $f_0(t) + C_1f_1(t) + C_2f_2(t)$, where $C_1, C_2$ denote arbitrary constants?",
+    "answer": "-\\sin (3 t) / 5+ C_{1} \\sin (2 t)+C_{2} \\cos (2 t)"
+}

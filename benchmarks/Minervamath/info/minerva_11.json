@@ -1,0 +1,4 @@
+{
+    "problem": "If the Sun's absolute magnitude is $+5$, find the luminosity of a star of magnitude $0$ in ergs/s. A useful constant: the luminosity of the sun is $3.83 \\times 10^{33}$ ergs/s.",
+    "answer": "3.83e35"
+}

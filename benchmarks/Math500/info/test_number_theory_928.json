@@ -1,0 +1,6 @@
+{
+    "problem": "How many of the same digits are found in the base 7 and base 8 representations of $629_{10}$? For example, $121_{3}$ and $413_{5}$ would have one digit in common.",
+    "answer": "3",
+    "subject": "Number Theory",
+    "level": 4
+}

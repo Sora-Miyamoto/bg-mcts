@@ -1,0 +1,6 @@
+{
+    "problem": "For a constant $c,$ in cylindrical coordinates $(r,\\theta,z),$ find the shape described by the equation\n\\[z = c.\\](A) Line\n(B) Circle\n(C) Plane\n(D) Sphere\n(E) Cylinder\n(F) Cone\n\nEnter the letter of the correct option.",
+    "answer": "\\text{(C)}",
+    "subject": "Precalculus",
+    "level": 3
+}

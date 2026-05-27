@@ -1,0 +1,6 @@
+{
+    "problem": "If\n\\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]where $a,$ $b,$ $c,$ $d$ are positive integers, compute $b.$",
+    "answer": "3",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

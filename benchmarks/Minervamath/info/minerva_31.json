@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: It has been suggested that our Galaxy has a spherically symmetric dark-matter halo with a density distribution, $\\rho_{\\text {dark }}(r)$, given by:\n\\[\n\\rho_{\\text {dark }}(r)=\\rho_{0}\\left(\\frac{r_{0}}{r}\\right)^{2},\n\\]\nwhere $\\rho_{0}$ and $r_{0}$ are constants, and $r$ is the radial distance from the center of the galaxy. For star orbits far out in the halo you can ignore the gravitational contribution of the ordinary matter in the Galaxy.\n\nCompute the rotation curve of the Galaxy (at large distances), i.e., find $v(r)$ for circular orbits.",
+    "answer": "\\sqrt{4 \\pi G \\rho_{0} r_{0}^{2}}"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: This problem considers the simple RLC circuit, in which a voltage source $v_{i}$ is in series with a resistor $R$, inductor $L$, and capacitor $C$.  We measure the voltage $v_{o}$ across the capacitor.  $v_{i}$ and $v_{o}$ share a ground reference.\n\nSubproblem 0: Calculate the transfer function \\(V_{o}(s) / V_{i}(s)\\).\n\n\nSolution: Using the voltage divider relationship:\n\\[\n\\begin{aligned}\nV_{o}(s) &=\\frac{Z_{e q}}{Z_{\\text {total }}}V_{i}(s)=\\frac{\\frac{1}{C s}}{R+L s+\\frac{1}{C s}} V_{i}(s) \\\\\n\\frac{V_{o}(s)}{V_{i}(s)} &=\\boxed{\\frac{1}{L C s^{2}+R C s+1}}\n\\end{aligned}\n\\]\n\nFinal answer: The final answer is \\frac{1}{L C s^{2}+R C s+1}. I hope it is correct.\n\nSubproblem 1: Let \\(L=0.01 \\mathrm{H}\\). Choose the value of $C$ such that \\(\\omega_{n}=10^{5}\\) and \\(\\zeta=0.05\\).  Give your answer in Farads.",
+    "answer": "1e-8"
+}

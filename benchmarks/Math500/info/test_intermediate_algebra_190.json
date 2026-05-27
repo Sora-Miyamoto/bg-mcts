@@ -1,0 +1,6 @@
+{
+    "problem": "Let $x,$ $y,$ and $z$ be positive real numbers such that $xyz(x + y + z) = 1.$  Find the minimum value of\n\\[(x + y)(y + z).\\]",
+    "answer": "2",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

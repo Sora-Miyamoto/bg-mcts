@@ -1,0 +1,6 @@
+{
+    "problem": "Let ABCDEF be a convex equilateral hexagon in which all pairs of opposite sides are parallel. The triangle whose sides are extensions of segments AB, CD, and EF has side lengths 200, 240, and 300. Find the side length of the hexagon.",
+    "answer": "080",
+    "year": "2024",
+    "url": "https://artofproblemsolving.com/wiki/index.php/2024_AIME_II_Problems/Problem_5"
+}

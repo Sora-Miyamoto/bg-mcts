@@ -1,0 +1,6 @@
+{
+    "problem": "Consider the function $z(x,y)$ describing the paraboloid\n\\[z = (2x - y)^2 - 2y^2 - 3y.\\]Archimedes and Brahmagupta are playing a game.  Archimedes first chooses $x.$  Afterwards, Brahmagupta chooses $y.$  Archimedes wishes to minimize $z$ while Brahmagupta wishes to maximize $z.$  Assuming that Brahmagupta will play optimally, what value of $x$ should Archimedes choose?",
+    "answer": "-\\frac{3}{8}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

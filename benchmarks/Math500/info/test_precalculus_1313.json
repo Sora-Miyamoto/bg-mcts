@@ -1,0 +1,6 @@
+{
+    "problem": "For some value of $x,$ $0 < x < 180,$\n\\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\]Find $x.$",
+    "answer": "46",
+    "subject": "Precalculus",
+    "level": 4
+}

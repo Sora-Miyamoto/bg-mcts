@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Calculate the vacancy fraction in copper (Cu) in $\\mathrm{~cm}^{-3}$ at the following temperatures. Measurements have determined the values of the enthalpy of vacancy formation, $\\Delta \\mathrm{H}_{\\mathrm{V}}$, to be $1.03 \\mathrm{eV}$ and the entropic prefactor, A, to be 1.1. Please format your answers as $n \\times 10^x$ where $n$ is to 2 decimal places.\n\n$20^{\\circ} \\mathrm{C}$.",
+    "answer": "1.85e5"
+}

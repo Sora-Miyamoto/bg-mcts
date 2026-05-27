@@ -1,0 +1,4 @@
+{
+    "problem": "A photon with a wavelength $(\\lambda)$ of $3.091 \\times 10^{-7} {~m}$ strikes an atom of hydrogen. Determine the velocity in m/s of an electron ejected from the excited state, $n=3$. Please format your answer as $n \\times 10^x$ where $n$ is to 2 decimal places.",
+    "answer": "9.35e5"
+}

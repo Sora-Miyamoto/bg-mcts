@@ -1,0 +1,6 @@
+{
+    "problem": "Let $S$ be the set of points $(a,b)$ with $0 \\le a,$ $b \\le 1$ such that the equation\n\\[x^4 + ax^3 - bx^2 + ax + 1 = 0\\]has at least one real root.  Determine the area of the graph of $S.$",
+    "answer": "\\frac{1}{4}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

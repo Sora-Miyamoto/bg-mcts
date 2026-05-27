@@ -1,0 +1,6 @@
+{
+    "problem": "Compute $997^{-1}$ modulo $1000$. Express your answer as an integer from $0$ to $999$.",
+    "answer": "333",
+    "subject": "Number Theory",
+    "level": 4
+}

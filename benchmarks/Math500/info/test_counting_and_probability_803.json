@@ -1,0 +1,6 @@
+{
+    "problem": "A point $(x,y)$ is randomly selected such that $0 \\le x \\le 8$ and $0 \\le y \\le 4$. What is the probability that $x+y \\le 4$? Express your answer as a common fraction.",
+    "answer": "\\frac{1}{4}",
+    "subject": "Counting & Probability",
+    "level": 4
+}

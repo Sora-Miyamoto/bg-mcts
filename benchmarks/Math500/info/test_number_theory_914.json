@@ -1,0 +1,6 @@
+{
+    "problem": "How many elements are in the intersection of the set of all the prime numbers less than 30 and the set of all the odd numbers greater than zero?",
+    "answer": "9",
+    "subject": "Number Theory",
+    "level": 2
+}

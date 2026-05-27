@@ -1,0 +1,4 @@
+{
+    "problem": "Find the complex number $a+b i$ with the smallest possible positive $b$ such that $e^{a+b i}=1+\\sqrt{3} i$.",
+    "answer": "\\ln 2 + i\\pi / 3"
+}

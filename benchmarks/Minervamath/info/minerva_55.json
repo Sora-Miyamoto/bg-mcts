@@ -1,0 +1,4 @@
+{
+    "problem": "Unfortunately, a mutant gene can turn box people into triangles late in life. A laboratory test has been developed which can spot the gene early so that the dreaded triangle transformation can be prevented by medications. This test is 95 percent accurate at spotting the gene when it is there. However, the test gives a \"false positive\" $0.4$ percent of the time, falsely indicating that a healthy box person has the mutant gene. If $0.1$ percent (be careful - that's one-tenth of one percent) of the box people have the mutant gene, what's the probability that a box person actually has the mutant gene if the test indicates that he or she does?",
+    "answer": "0.192"
+}

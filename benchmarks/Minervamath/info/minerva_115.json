@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: You are given an equation of motion of the form:\n\\[\n\\dot{y}+5 y=10 u\n\\]\n\nSubproblem 0: What is the time constant for this system?\n\n\nSolution: We find the homogenous solution, solving:\n\\[\n\\dot{y}+5 y=0\n\\]\nby trying a solution of the form $y=A \\cdot e^{s, t}$.\nCalculation:\n\\[\n\\dot{y}=A \\cdot s \\cdot e^{s \\cdot t} \\mid \\Rightarrow A \\cdot s \\cdot e^{s t}+5 A \\cdot e^{s t}=0\n\\]\nyields that $s=-5$, meaning the solution is $y=A \\cdot e^{-5 \\cdot t}=A \\cdot e^{-t / \\tau}$, meaning $\\tau = \\boxed{0.2}$.\n\nFinal answer: The final answer is 0.2. I hope it is correct.\n\nSubproblem 1: If \\(u=10\\), what is the final or steady-state value for \\(y(t)\\)?",
+    "answer": "20"
+}

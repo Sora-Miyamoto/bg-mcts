@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Electrons are accelerated by a potential of 10 Volts.\n\nDetermine their velocity in m/s. Please format your answer as $n \\times 10^x$, where $n$ is to 2 decimal places.",
+    "answer": "1.87e6"
+}

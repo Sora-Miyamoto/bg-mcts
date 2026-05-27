@@ -1,0 +1,6 @@
+{
+    "problem": "Find the equation of the plane containing the points $(0,-1,-1),$ $(-4,4,4),$ and $(4,5,1).$  Enter your answer in the form\n\\[Ax + By + Cz + D = 0,\\]where $A,$ $B,$ $C,$ $D$ are integers such that $A > 0$ and $\\gcd(|A|,|B|,|C|,|D|) = 1.$",
+    "answer": "5x - 7y + 11z + 4 = 0",
+    "subject": "Precalculus",
+    "level": 4
+}

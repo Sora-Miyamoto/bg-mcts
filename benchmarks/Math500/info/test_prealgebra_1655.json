@@ -1,0 +1,6 @@
+{
+    "problem": "What is the probability that a randomly selected integer in the set $$\\{1,2,3,\\ldots,100\\}$$  is divisible by 2 and not divisible by 3? Express your answer as a common fraction.",
+    "answer": "\\dfrac{17}{50}",
+    "subject": "Prealgebra",
+    "level": 5
+}

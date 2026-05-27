@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the damped sinusoid $x(t)=A e^{-a t} \\cos (\\omega t)$.\n\nWhat is the spacing between successive maxima of $x(t)$? Assume that $\\omega \\neq 0$.",
+    "answer": "2 \\pi / \\omega"
+}

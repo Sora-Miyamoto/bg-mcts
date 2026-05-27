@@ -1,0 +1,6 @@
+{
+    "problem": "Find the value of $\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$.",
+    "answer": "3",
+    "subject": "Intermediate Algebra",
+    "level": 1
+}

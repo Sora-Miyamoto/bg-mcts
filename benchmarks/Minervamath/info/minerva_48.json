@@ -1,0 +1,4 @@
+{
+    "problem": "Suppose air molecules have a collision cross section of $10^{-16} \\mathrm{~cm}^{2}$. If the (number) density of air molecules is $10^{19} \\mathrm{~cm}^{-3}$, what is the collision mean free path in cm? Answer to one significant figure.",
+    "answer": "1e-3"
+}

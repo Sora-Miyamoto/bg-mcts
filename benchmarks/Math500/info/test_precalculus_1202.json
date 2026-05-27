@@ -1,0 +1,6 @@
+{
+    "problem": "If $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi,$ then $x$ satisfies a cubic polynomial of the form\n\\[ax^3 + bx^2 + cx + d = 0,\\]where $a,$ $b,$ $c,$ and $d$ are integers, and $a \\neq 0.$  Find the smallest possible value of $|a| + |b| + |c| + |d|.$",
+    "answer": "27",
+    "subject": "Precalculus",
+    "level": 5
+}

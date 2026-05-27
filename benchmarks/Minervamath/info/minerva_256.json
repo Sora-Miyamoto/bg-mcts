@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A consumer's preferences are representable by the following utility function:\n\\[\n  u(x, y)=x^{\\frac{1}{2}}+y\n\\]\n\nSubproblem 0: Obtain the marginal rate of substitution of the consumer at an arbitrary point $(X,Y)$, where $X>0$ and $Y>0$.\n\n\nSolution: \\[ M R S=-\\frac{\\frac{1}{2} x^{-\\frac{1}{2}}}{1}=\\boxed{-\\frac{1}{2} X^{-\\frac{1}{2}}} \\]\n\nFinal answer: The final answer is -\\frac{1}{2} X^{-\\frac{1}{2}}. I hope it is correct.\n\nSubproblem 1: Suppose the price of the second good $(y)$ is 1 , and the price of the first good $(x)$ is denoted by $p>0$. If the consumer's income is $m>\\frac{1}{4p}$, in the optimal consumption bundle of the consumer (in terms of $m$ and $p$ ), what is the quantity of the first good $(x)$?",
+    "answer": "\\frac{1}{4p^2}"
+}

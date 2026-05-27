@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Calculate the molecular weight in g/mole (to 2 decimal places) of each of the substances listed below.\n\nSubproblem 0: $\\mathrm{NH}_{4} \\mathrm{OH}$\n\n\nSolution: $\\mathrm{NH}_{4} \\mathrm{OH}$ :\n$5 \\times 1.01=5.05(\\mathrm{H})$\n$1 \\times 14.01=14.01(\\mathrm{~N})$\n$1 \\times 16.00=16.00(\\mathrm{O})$\n$\\mathrm{NH}_{4} \\mathrm{OH}= \\boxed{35.06}$ g/mole\n\nFinal answer: The final answer is 35.06. I hope it is correct.\n\nSubproblem 1: $\\mathrm{NaHCO}_{3}$",
+    "answer": "84.01"
+}

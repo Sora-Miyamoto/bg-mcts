@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Comparison of Radio and Optical Telescopes.\n\nThe Very Large Array (VLA) is used to make an interferometric map of the Orion Nebula at a wavelength of $10 \\mathrm{~cm}$. What is the best angular resolution of the radio image that can be produced, in radians? Note that the maximum separation of two antennae in the VLA is $36 \\mathrm{~km}$.",
+    "answer": "2.7778e-6"
+}

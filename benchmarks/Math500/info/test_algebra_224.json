@@ -1,0 +1,6 @@
+{
+    "problem": "The square root of $t$ is greater than $2$ and less than $3.5$. How many integer values of $t$ satisfy this condition?",
+    "answer": "8",
+    "subject": "Algebra",
+    "level": 4
+}

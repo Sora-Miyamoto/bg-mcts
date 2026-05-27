@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the total void volume $(\\mathrm{cm}^{3} / mole)$ for gold (Au) at $27^{\\circ} \\mathrm{C}$; make the hard-sphere approximation in your calculation. Note that the molar volume of gold (Au) is $10.3 \\mathrm{~cm}^{3} / \\mathrm{mole}$. Please round your answer to 2 decimal places.",
+    "answer": "2.68"
+}

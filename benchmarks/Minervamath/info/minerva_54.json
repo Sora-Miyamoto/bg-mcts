@@ -1,0 +1,4 @@
+{
+    "problem": "A Boolean function $F(A, B)$ is said to be universal if any arbitrary boolean function can be constructed by using nested $F(A, B)$ functions. A universal function is useful, since using it we can build any function we wish out of a single part. For example, when implementing boolean logic on a computer chip a universal function (called a 'gate' in logic-speak) can simplify design enormously. We would like to find a universal boolean function. In this problem we will denote the two boolean inputs $A$ and $B$ and the one boolean output as $C$. \nFirst, to help us organize our thoughts, let's enumerate all of the functions we'd like to be able to construct. How many different possible one-output boolean functions of two variables are there? I.e., how many functions are there of the form $F(A, B)=C ?$",
+    "answer": "16"
+}

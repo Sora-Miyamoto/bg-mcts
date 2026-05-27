@@ -1,0 +1,6 @@
+{
+    "problem": "Let $z = 1+i$ and $w = \\dfrac{3z+1}{5z+7}$. Find $|w|$.",
+    "answer": "\\frac{5}{13}",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

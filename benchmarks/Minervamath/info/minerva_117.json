@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Assume that we apply a unit step in force separately to a mass \\(m\\), a dashpot \\(c\\), and a spring \\(k\\). The mass moves in inertial space. The spring and dashpot have one end connected to inertial space (reference velocity \\(=0\\) ), and the force is applied to the other end.  Assume zero initial velocity and position for the elements.\nRecall that the unit step function \\(u_{S}(t)\\) is defined as \\(u_{S}(t)=0 ; t<0\\) and \\(u_{S}(t)=1 ; t \\geq 0\\). We will also find it useful to introduce the unit impulse function \\(\\delta(t)\\) which can be defined via\n\\[\nu_{S}(t)=\\int_{-\\infty}^{t} \\delta(\\tau) d \\tau\n\\]\nThis means that we can also view the unit impulse as the derivative of the unit step:\n\\[\n\\delta(t)=\\frac{d u_{S}(t)}{d t}\n\\]\n\nSolve for the resulting velocity of the mass.",
+    "answer": "\\frac{1}{m} t"
+}

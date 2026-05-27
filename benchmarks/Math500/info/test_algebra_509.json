@@ -1,0 +1,6 @@
+{
+    "problem": "Simplify the following expression to a simplified fraction: $$\\sqrt{\\dfrac{\\dfrac{5}{\\sqrt{80}}+\\dfrac{\\sqrt{845}}{9}+\\sqrt{45}}{\\sqrt5}}.$$",
+    "answer": "\\frac{13}{6}",
+    "subject": "Algebra",
+    "level": 5
+}

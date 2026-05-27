@@ -1,0 +1,4 @@
+{
+    "problem": "Find the general solution of $x^{2} y^{\\prime}+2 x y=\\sin (2 x)$, solving for $y$. Note that a general solution to a differential equation has the form $x=x_{p}+c x_{h}$ where $x_{h}$ is a nonzero solution of the homogeneous equation $\\dot{x}+p x=0$. Additionally, note that the left hand side is the derivative of a product.",
+    "answer": "c x^{-2}-\\frac{\\cos (2 x)}{2 x^{2}}"
+}

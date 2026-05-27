@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the highest linear density of atoms (atoms/m) encountered in vanadium (V). Please format your answer as $n \\times 10^x$ where $n$ is to 2 decimal places.",
+    "answer": "3.75e9"
+}

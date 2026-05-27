@@ -1,0 +1,6 @@
+{
+    "problem": "Four distinct circles are drawn in a plane. What is the maximum number of points where at least two of the circles intersect?",
+    "answer": "12",
+    "subject": "Counting & Probability",
+    "level": 4
+}

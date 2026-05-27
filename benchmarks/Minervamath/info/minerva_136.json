@@ -1,0 +1,4 @@
+{
+    "problem": "What is the speed of light in meters/second to 1 significant figure? Use the format $a \\times 10^{b}$ where a and b are numbers.",
+    "answer": "3e8"
+}

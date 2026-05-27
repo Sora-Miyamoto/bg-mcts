@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Give each of the following quantities to the nearest power of 10 and in the units requested. \n\nSubproblem 0: Age of our universe when most He nuclei were formed in minutes: \n\n\nSolution: \\boxed{1} minute.\n\nFinal answer: The final answer is 1. I hope it is correct.\n\nSubproblem 1: Age of our universe when hydrogen atoms formed in years:\n\n\nSolution: \\boxed{400000} years.\n\nFinal answer: The final answer is 400000. I hope it is correct.\n\nSubproblem 2: Age of our universe today in Gyr:\n\n\nSolution: \\boxed{10} Gyr.\n\nFinal answer: The final answer is 10. I hope it is correct.\n\nSubproblem 3: Number of stars in our Galaxy: (Please format your answer as 'xen' representing $x * 10^n$)",
+    "answer": "1e11"
+}

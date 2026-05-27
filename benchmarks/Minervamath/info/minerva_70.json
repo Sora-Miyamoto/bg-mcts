@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems relate to applying Euler's Method (a first-order numerical procedure for solving ordinary differential equations with a given initial value) onto $y^{\\prime}=y^{2}-x^{2}=F(x, y)$ at $y(0)=-1$, with $h=0.5$. Recall the notation \\[x_{0}=0, y_{0}=-1, x_{n+1}=x_{h}+h, y_{n+1}=y_{n}+m_{n} h, m_{n}=F\\left(x_{n}, y_{n}\\right)\\]. \n\nUse Euler's method to estimate the value at $x=1.5$.",
+    "answer": "-0.875"
+}

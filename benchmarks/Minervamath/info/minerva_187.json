@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the diffusivity $\\mathrm{D}$ of lithium ( $\\mathrm{Li}$ ) in silicon (Si) at $1200^{\\circ} \\mathrm{C}$, knowing that $D_{1100^{\\circ} \\mathrm{C}}=10^{-5} \\mathrm{~cm}^{2} / \\mathrm{s}$ and $\\mathrm{D}_{695^{\\circ} \\mathrm{C}}=10^{-6} \\mathrm{~cm}^{2} / \\mathrm{s}$. Please format your answer as $n \\times 10^x$ where $n$ is to 2 decimal places, in $\\mathrm{~cm}^2/\\mathrm{sec}$.",
+    "answer": "1.45e-5"
+}

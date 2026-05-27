@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the differential equation $\\ddot{x}+b \\dot{x}+x=0$.\\\\\n\nSubproblem 0: What is the characteristic polynomial $p(s)$ of $\\ddot{x}+b \\dot{x}+x=0$?\n\n\nSolution: The characteristic polynomial is $p(s)=\\boxed{s^{2}+b s+1}$.\n\nFinal answer: The final answer is s^{2}+b s+1. I hope it is correct.\n\nSubproblem 1: For what value of $b$ does $\\ddot{x}+b \\dot{x}+x=0$ exhibit critical damping?",
+    "answer": "2"
+}

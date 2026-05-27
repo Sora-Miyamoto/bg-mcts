@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Here we consider a system described by the differential equation\n\\[\n\\ddot{y}+10 \\dot{y}+10000 y=0 .\n\\]\n\nSubproblem 0: What is the value of the natural frequency \\(\\omega_{n}\\) in radians per second?\n\n\nSolution: $\\omega_{n}=\\sqrt{\\frac{k}{m}}$\nSo\n$\\omega_{n} =\\boxed{100} \\mathrm{rad} / \\mathrm{s}$\n\nFinal answer: The final answer is 100. I hope it is correct.\n\nSubproblem 1: What is the value of the damping ratio \\(\\zeta\\)? \n\n\nSolution: $\\zeta=\\frac{b}{2 \\sqrt{k m}}$\nSo\n$\\zeta =\\boxed{0.05}$\n\nFinal answer: The final answer is 0.05. I hope it is correct.\n\nSubproblem 2: What is the value of the damped natural frequency \\(\\omega_{d}\\) in radians per second? Give your answer to three significant figures.",
+    "answer": "99.9"
+}

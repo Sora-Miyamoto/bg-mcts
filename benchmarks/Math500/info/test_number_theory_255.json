@@ -1,0 +1,6 @@
+{
+    "problem": "What is the last nonzero digit to the right of the decimal point in the decimal expansion of $\\frac{137}{500}$?",
+    "answer": "4",
+    "subject": "Number Theory",
+    "level": 2
+}

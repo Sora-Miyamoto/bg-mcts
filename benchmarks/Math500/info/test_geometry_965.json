@@ -1,0 +1,6 @@
+{
+    "problem": "Suppose that $ABCD$ is a trapezoid in which $\\overline{AD}|| \\overline{BC}$.  Given $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ bisects angle $\\angle BAD$, and $[ABCD]=42$, then compute $[\\triangle ACD]$.",
+    "answer": "28",
+    "subject": "Geometry",
+    "level": 5
+}

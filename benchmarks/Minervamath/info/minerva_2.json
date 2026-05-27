@@ -1,0 +1,4 @@
+{
+    "problem": "A white dwarf star has an effective temperature, $T_{e}=50,000$ degrees Kelvin, but its radius, $R_{\\mathrm{WD}}$, is comparable to that of the Earth. Take $R_{\\mathrm{WD}}=10^{4} \\mathrm{~km}\\left(10^{7} \\mathrm{~m}\\right.$ or $\\left.10^{9} \\mathrm{~cm}\\right)$. Compute the luminosity (power output) of the white dwarf. Treat the white dwarf as a blackbody radiator. Give  your answer in units of ergs per second, to two significant figures.",
+    "answer": "4.5e33"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "A palindrome is a number that reads the same forwards and backwards. The sum of a particular set of three consecutive positive integers is a three-digit palindrome. If the sum is less than 220, what is the greatest possible value for the largest of the three integers in the set?",
+    "answer": "58",
+    "subject": "Number Theory",
+    "level": 4
+}

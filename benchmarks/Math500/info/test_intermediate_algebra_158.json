@@ -1,0 +1,6 @@
+{
+    "problem": "Let $a,$ $b,$ $c,$ and $d$ be positive real numbers such that $a + b + c + d = 10.$  Find the maximum value of $ab^2 c^3 d^4.$",
+    "answer": "27648",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

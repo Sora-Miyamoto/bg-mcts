@@ -1,0 +1,4 @@
+{
+    "problem": "Write (but don't solve) the equation of motion for a pendulum consisting of a mass $m$ attached to a rigid massless rod, suspended from the ceiling and free to rotate in a single vertical plane.  Let the rod (of length $l$) make an angle of $\\theta$ with the vertical.  Gravity ($mg$) acts directly downward, the system input is a horizontal external force $f(t)$, and the system output is the angle $\\theta(t)$.  \nNote: Do NOT make the small-angle approximation in your equation.",
+    "answer": "m l \\ddot{\\theta}(t)-m g \\sin \\theta(t)=f(t) \\cos \\theta(t)"
+}

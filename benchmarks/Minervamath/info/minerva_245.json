@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Xiaoyu spends all her income on statistical software $(S)$ and clothes (C). Her preferences can be represented by the utility function: $U(S, C)=4 \\ln (S)+6 \\ln (C)$.\n\nCompute the marginal rate of substitution of software for clothes.",
+    "answer": "\\frac{2}{3} \\frac{C}{S}"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "The Hubble Space telescope has an effective diameter of $2.5 \\mathrm{~m}$, and a typical wavelength used for observation by the Hubble might be $0.6 \\mu \\mathrm{m}$, or 600 nanometers (typical optical wavelength). Based on this information, compute an estimate for the angular resolution of the Hubble Space telescope in arcseconds.",
+    "answer": "0.05"
+}

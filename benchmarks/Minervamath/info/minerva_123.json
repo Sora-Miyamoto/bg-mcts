@@ -1,0 +1,4 @@
+{
+    "problem": "Obtain the inverse Laplace transform of the following frequency-domain expression: $F(s) = -\\frac{(4 s-10)}{s(s+2)(s+5)}$.\nUse $u(t)$ to denote the unit step function.",
+    "answer": "(1 - 3e^{-2t} + 2e^{-5t}) u(t)"
+}

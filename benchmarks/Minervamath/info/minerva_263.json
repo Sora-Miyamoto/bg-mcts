@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following concern the independent particle model. You may find the following set of Coulomb and exchange integrals useful (energies in $\\mathrm{eV}$):\n$\\mathrm{J}_{1 s 1 s}=17.0 Z$ \n$\\mathrm{~J}_{1 s 2 s}=4.8 Z$ \n$\\mathrm{~K}_{1 s 2 s}=0.9 Z$ \n$\\mathrm{~J}_{2 s 2 s}=3.5 Z$ \n$\\mathrm{J}_{1 s 2 p}=6.6 Z$ \n$\\mathrm{~K}_{1 s 2 p}=0.5 Z$ \n$\\mathrm{~J}_{2 s 2 p}=4.4 Z$ \n$\\mathrm{~K}_{2 s 2 p}=0.8 Z$ \n$\\mathrm{J}_{2 p_{i}, 2 p_{i}}=3.9 Z$\n$\\mathrm{~J}_{2 p_{i}, 2 p_{k}}=3.5 Z$\n$\\mathrm{~K}_{2 p_{i}, 2 p_{k}}=0.2 Z i \\neq k$ \n\nUsing the independent particle model, what is the energy difference between the $1 s^{2} 2 p_{x}^{2}$ configuration and the $1 s^{2} 2 s^{2}$ configuration? Give your answer in eV, in terms of $Z$, and round to a single decimal place.",
+    "answer": "7.6 Z"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Find the general solution of the differential equation $y^{\\prime}=x-2 y$ analytically using integrating factors, solving for $y$. Note that a function $u(t)$ such that $u \\dot{x}+u p x=\\frac{d}{d t}(u x)$ is an integrating factor. Additionally, note that a general solution to a differential equation has the form $x=x_{p}+c x_{h}$ where $x_{h}$ is a nonzero solution of the homogeneous equation $\\dot{x}+p x=0$.",
+    "answer": "x / 2-1 / 4+c e^{-2 x}"
+}

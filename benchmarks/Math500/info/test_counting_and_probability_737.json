@@ -1,0 +1,6 @@
+{
+    "problem": "How many license plates can be formed if every license plate has 2 different letters (A through Z) followed by 2 different one digit (0-9) numbers?",
+    "answer": "58,500",
+    "subject": "Counting & Probability",
+    "level": 2
+}

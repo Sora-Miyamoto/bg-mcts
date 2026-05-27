@@ -1,0 +1,6 @@
+{
+    "problem": "A rectangular field is enclosed in an athletic track, as shown below.  The track consists of two edges of the field, and two semicircles.  The length of the track is 400 meters.  What is the largest possible area of the field, in square meters?\n\n[asy]\nunitsize(1 cm);\n\nfilldraw((0,0)--(3,0)--(3,2)--(0,2)--cycle,lightgreen);\ndraw((0,0)--(3,0),linewidth(2*bp));\ndraw((0,2)--(3,2),linewidth(2*bp));\ndraw(arc((3,1),1,-90,90),linewidth(2*bp));\ndraw(arc((0,1),1,90,270),linewidth(2*bp));\n[/asy]",
+    "answer": "\\frac{20000}{\\pi}",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

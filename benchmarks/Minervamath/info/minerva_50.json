@@ -1,0 +1,4 @@
+{
+    "problem": "What is the slope of a $\\log N(>F)$ vs. $\\log F$ curve for a homogeneous distribution of objects, each of luminosity, $L$, where $F$ is the flux at the observer, and $N$ is the number of objects observed per square degree on the sky?",
+    "answer": "-3./2"
+}

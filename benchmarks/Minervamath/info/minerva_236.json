@@ -1,0 +1,4 @@
+{
+    "problem": "Given the ionic radii, $\\mathrm{Cs}^{+}=1.67 \\AA, \\mathrm{Cl}^{-}=1.81 \\AA$, and the Madelung constant $\\mathrm{M}(\\mathrm{CsCl})=1.763$, determine to the best of your ability the molar Crystal energy ( $\\Delta \\mathrm{E}_{\\text {cryst }}$ ) for $\\mathrm{CsCl}$. Please format your answer as $n \\times 10^x$ where n is to 2 decimal places; answer in $\\mathrm{J} / \\text{mole}$.",
+    "answer": "7.02e5"
+}

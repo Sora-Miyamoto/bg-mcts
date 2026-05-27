@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the first-order system\n\\[\n\\tau \\dot{y}+y=u\n\\]\ndriven with a unit step from zero initial conditions. The input to this system is \\(u\\) and the output is \\(y\\). \n\nDerive and expression for the settling time \\(t_{s}\\), where the settling is to within an error \\(\\pm \\Delta\\) from the final value of 1.",
+    "answer": "-\\tau \\ln \\Delta"
+}

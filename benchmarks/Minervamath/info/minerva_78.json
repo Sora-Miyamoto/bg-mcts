@@ -1,0 +1,4 @@
+{
+    "problem": "For $\\omega \\geq 0$, find $A$ such that $A \\cos (\\omega t)$ is a solution of $\\ddot{x}+4 x=\\cos (\\omega t)$.",
+    "answer": "\\frac{1}{4-\\omega^{2}}"
+}

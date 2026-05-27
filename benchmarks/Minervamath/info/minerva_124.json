@@ -1,0 +1,4 @@
+{
+    "problem": "A signal has a Laplace transform\n\\[\nX(s)=b+\\frac{a}{s(s+a)}\n\\]\nwhere \\(a, b>0\\), and with a region of convergence of \\(|s|>0\\). Find \\(x(t), t>0\\).",
+    "answer": "b \\delta(t)+1-e^{-a t}"
+}

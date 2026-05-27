@@ -1,0 +1,6 @@
+{
+    "problem": "If $n \\equiv 2 \\pmod{7}$, then find the remainder when $(n + 2)(n + 4)(n + 6)$ is divided by 7.",
+    "answer": "3",
+    "subject": "Number Theory",
+    "level": 2
+}

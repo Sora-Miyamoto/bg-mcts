@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Determine the following values from a standard radio dial. \n\nSubproblem 0: What is the minimum wavelength in m for broadcasts on the AM band? Format your answer as an integer. \n\n\nSolution: \\[\n\\mathrm{c}=v \\lambda, \\therefore \\lambda_{\\min }=\\frac{\\mathrm{c}}{v_{\\max }} ; \\lambda_{\\max }=\\frac{\\mathrm{c}}{v_{\\min }}\n\\]\n$\\lambda_{\\min }=\\frac{3 \\times 10^{8} m / s}{1600 \\times 10^{3} Hz}=\\boxed{188} m$\n\nFinal answer: The final answer is 188. I hope it is correct.\n\nSubproblem 1: What is the maximum wavelength in m for broadcasts on the AM band? Format your answer as an integer.",
+    "answer": "566"
+}

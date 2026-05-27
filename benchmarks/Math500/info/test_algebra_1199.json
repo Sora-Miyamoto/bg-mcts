@@ -1,0 +1,6 @@
+{
+    "problem": "Suppose that $f$ is a function and $f^{-1}$ is the inverse of $f$.  If $f(1)=2$, $f(2) = 6$, and $f(3)=5$, then what is $f^{-1}(f^{-1}(6))$?",
+    "answer": "1",
+    "subject": "Algebra",
+    "level": 4
+}

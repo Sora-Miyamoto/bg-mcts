@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to a spring/mass/dashpot system driven through the spring modeled by the equation $m \\ddot{x}+b \\dot{x}+k x=k y$. Here $x$ measures the position of the mass, $y$ measures the position of the other end of the spring, and $x=y$ when the spring is relaxed.\n\nIn this system, regard $y(t)$ as the input signal and $x(t)$ as the system response. Take $m=1, b=3, k=4, y(t)=A \\cos t$. Replace the input signal by a complex exponential $y_{c x}(t)$ of which it is the real part, and compute the exponential (\"steady state\") system response $z_p(t)$; leave your answer in terms of complex exponentials, i.e. do not take the real part.",
+    "answer": "\\frac{4 A}{3+3 i} e^{i t}"
+}

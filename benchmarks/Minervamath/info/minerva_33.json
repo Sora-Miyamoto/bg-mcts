@@ -1,0 +1,4 @@
+{
+    "problem": "Subproblem 0: A particular star has an absolute magnitude $M=-7$. If this star is observed in a galaxy that is at a distance of $3 \\mathrm{Mpc}$, what will its apparent magnitude be? \n\n\nSolution: \\[\n\\text { Given: } M=-7 \\text { and } d=3 \\mathrm{Mpc}\n\\]\n\\[\n\\begin{aligned}\n  & \\text { Apparent Magnitude: } m=M+5 \\log \\left[\\frac{d}{10 \\mathrm{pc}}\\right]=-7+5 \\log \\left[\\frac{3 \\times 10^{6}}{10}\\right]=\\boxed{20.39} \\\\\n\\end{aligned}\n\\]\n\nFinal answer: The final answer is 20.39. I hope it is correct.\n\nSubproblem 1: What is the distance modulus to this galaxy?",
+    "answer": "27.39"
+}

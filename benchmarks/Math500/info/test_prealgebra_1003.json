@@ -1,0 +1,6 @@
+{
+    "problem": "A square and a regular heptagon  are coplanar and share a common side $\\overline{AD}$, as shown. What is the degree measure of angle $BAC$?  Express your answer as a common fraction.\n\n[asy]\nfor(int i=0; i <=7; ++i) {\ndraw(dir(360*i/7+90)--dir(360*(i+1)/7+90));\n}\npair A = dir(360*3/7+90);\npair F = dir(360*4/7+90);\npair C = A+dir(90)*(F-A);\npair D = C+F-A;\npair B = dir(360*2/7+90);\n\ndraw(A--C--D--F);\n\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,W);\nlabel(\"$C$\",C,SE);\nlabel(\"$D$\",F,S);\n\n[/asy]",
+    "answer": "\\frac{270}7\\text{ degrees}",
+    "subject": "Prealgebra",
+    "level": 5
+}

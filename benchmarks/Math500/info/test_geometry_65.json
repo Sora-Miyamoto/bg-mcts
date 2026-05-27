@@ -1,0 +1,6 @@
+{
+    "problem": "In the diagram, four circles of radius 1 with centres $P$, $Q$, $R$, and $S$ are tangent to one another and to the sides of $\\triangle ABC$, as shown. [asy]\nsize(200);\npair A, B, C, P, Q, R, S;\nR=(0,0);\nQ=(-2,0);\nS=(2,0);\nP=(1,1.732);\nB=(-5.73,-1);\nC=(3.732,-1);\nA=(1.366,3.098);\ndraw(A--B--C--A);\ndraw(circle(P, 1));\ndraw(circle(Q, 1));\ndraw(circle(R, 1));\ndraw(circle(S, 1));\nlabel(\"A\", A, N);\nlabel(\"B\", B, SW);\nlabel(\"C\", C, SE);\ndot(P);\ndot(Q);\ndot(R);\ndot(S);\nlabel(\"P\", P, N);\nlabel(\"Q\", Q, SW);\nlabel(\"R\", R, SW);\nlabel(\"S\", S, SE);\n[/asy]\n\n\nWhat is the degree measure of the smallest angle in triangle $PQS$?",
+    "answer": "30^\\circ",
+    "subject": "Geometry",
+    "level": 3
+}

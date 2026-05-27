@@ -1,0 +1,6 @@
+{
+    "problem": "Suppose that $x,$ $y,$ and $z$ satisfy the equations\n\\begin{align*}\nxyz &= 4, \\\\\nx^3 + y^3 + z^3 &= 4, \\\\\nxy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12.\n\\end{align*}Calculate the value of $xy + yz + zx.$",
+    "answer": "6",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

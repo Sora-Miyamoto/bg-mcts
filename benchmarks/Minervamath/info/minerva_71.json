@@ -1,0 +1,4 @@
+{
+    "problem": "Rewrite the function $f(t) = \\cos (2 t)+\\sin (2 t)$ in the form $A \\cos (\\omega t-\\phi)$. It may help to begin by drawing a right triangle with sides $a$ and $b$.",
+    "answer": "\\sqrt{2} \\cos (2 t-\\pi / 4)"
+}

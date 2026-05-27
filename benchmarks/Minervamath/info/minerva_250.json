@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Sebastian owns a coffee factory in Argentina. His production function is:\n\\[\nF(K, L)=(K-1)^{\\frac{1}{4}} L^{\\frac{1}{4}}\n\\]\nConsider the cost of capital to be $r$ and the wage to be $w$. Both inputs are variable, and Sebastian faces no fixed costs.\n\nWhat is the marginal rate of technical substitution of labor for capital?",
+    "answer": "\\frac{K-1}{L}"
+}

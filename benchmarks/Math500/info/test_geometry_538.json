@@ -1,0 +1,6 @@
+{
+    "problem": "Determine the coordinates of the point $P$ on the line $y=-x+6$ such that $P$ is equidistant from the points $A(10,-10)$ and $O(0,0)$ (that is, so that $PA=PO$).  Express your answer as an ordered pair $(a,b)$.",
+    "answer": "(8,-2)",
+    "subject": "Geometry",
+    "level": 4
+}

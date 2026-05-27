@@ -1,0 +1,6 @@
+{
+    "problem": "The parabola with equation $y=ax^2+bx+c$ and vertex $(h,k)$ is reflected about the line $y=k$. This results in the parabola with equation $y=dx^2+ex+f$.  Express $a+b+c+d+e+f$ in terms of $k.$",
+    "answer": "2k",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

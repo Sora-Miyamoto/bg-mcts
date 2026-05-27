@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A prism is constructed from glass and has sides that form a right triangle with the other two angles equal to $45^{\\circ}$. The sides are $L, L$, and $H$, where $L$ is a leg and $H$ is the hypotenuse. A parallel light beam enters side $L$ normal to the surface, passes into the glass, and then strikes $H$ internally. The index of refraction of the glass is $n=1.5$.\n\nCompute the critical angle for the light to be internally reflected at $H$.  Give your answer in degrees to 3 significant figures.",
+    "answer": "41.8"
+}

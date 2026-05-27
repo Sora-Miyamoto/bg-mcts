@@ -1,0 +1,6 @@
+{
+    "problem": "If $\\mathbf{a} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix},$ then find the vector $\\mathbf{v}$ such that $\\mathbf{a} \\cdot \\mathbf{v} = 2$ and $\\mathbf{a} \\times \\mathbf{v} = \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.$",
+    "answer": "\\begin{pmatrix} -1/3 \\\\ 2/3 \\\\ 5/3 \\end{pmatrix}",
+    "subject": "Precalculus",
+    "level": 3
+}

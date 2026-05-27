@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: The following subproblems refer to the differential equation. $\\ddot{x}+4 x=\\sin (3 t)$\n\nFind $A$ so that $A \\sin (3 t)$ is a solution of $\\ddot{x}+4 x=\\sin (3 t)$.",
+    "answer": "-0.2"
+}

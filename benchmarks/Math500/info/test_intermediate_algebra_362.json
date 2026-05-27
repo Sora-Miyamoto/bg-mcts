@@ -1,0 +1,6 @@
+{
+    "problem": "The graphs of $x^2 + y^2 + 6x - 24y + 72 = 0$ and $x^2 - y^2 + 6x + 16y - 46 = 0$ intersect at four points.  Compute the sum of the distances from these four points to the point $(-3,2).$",
+    "answer": "40",
+    "subject": "Intermediate Algebra",
+    "level": 4
+}

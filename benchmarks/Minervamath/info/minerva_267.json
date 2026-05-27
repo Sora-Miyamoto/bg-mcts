@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: This problem deals with the H\\\"uckel MO theory of $\\pi$-conjugated systems.\nTo answer each question, you will need to construct the Hückel MOs for each of the molecules pictured, divide them into sets of occupied and unoccupied orbitals, and determine the relevant properties, such as ground state energy, bond order, etc.\nNOTE: For all parts we take $\\alpha=\\alpha_{\\mathrm{C}}=-11.2 \\mathrm{eV}$ and $\\beta=\\beta_{\\mathrm{CC}}=-0.7 \\mathrm{eV}$.\n\nDetermine the ionization potential of benzene (remember, ionization potential $\\left[\\mathrm{IP}=\\mathrm{E}\\left(\\mathrm{B}^{+}\\right)-\\mathrm{E}(\\mathrm{B})\\right]$), in $\\mathrm{eV}$, rounded to one decimal place.  The benzene molecule is shown below:\n\\chemfig{C*6((-H)-C(-H)=C(-H)-C(-H)=C(-H)-C(-H)=)}",
+    "answer": "11.9"
+}

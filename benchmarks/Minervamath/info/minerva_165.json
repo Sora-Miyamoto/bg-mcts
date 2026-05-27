@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the minimum potential in V (to 2 decimal places) that must be applied to an $\\alpha$-particle so that on interaction with a hydrogen atom, a ground state electron will be excited to $n$ $=6$.",
+    "answer": "6.62"
+}

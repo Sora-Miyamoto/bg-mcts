@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: $\\mathrm{Bi}_{2} \\mathrm{~S}_{3}$ dissolves in water according to the following reaction:\n\\[\n\\mathrm{Bi}_{2} \\mathrm{~S}_{3}(\\mathrm{~s}) \\Leftrightarrow 2 \\mathrm{Bi}^{3+}(\\mathrm{aq})+3 \\mathrm{~s}^{2-}(\\mathrm{aq})\n\\]\nfor which the solubility product, $\\mathrm{K}_{\\mathrm{sp}}$, has the value of $1.6 \\times 10^{-72}$ at room temperature.\n\nAt room temperature how many moles of $\\mathrm{Bi}_{2} \\mathrm{~S}_{3}$ will dissolve in $3.091 \\times 10^{6}$ liters of water? Please format your answer as $n \\times 10^x$ where $n$ is to 1 decimal place.",
+    "answer": "5.3e-9"
+}

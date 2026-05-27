@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the Particle in an Infinite Box ``superposition state'' wavefunction,\n\\[\n\\psi_{1,2}=(1 / 3)^{1 / 2} \\psi_{1}+(2 / 3)^{1 / 2} \\psi_{2}\n\\]\nwhere $E_{1}$ is the eigen-energy of $\\psi_{1}$ and $E_{2}$ is the eigen-energy of $\\psi_{2}$.\n\nSubproblem 0: Suppose you do one experiment to measure the energy of $\\psi_{1,2}$.  List the possible result(s) of your measurement.\n\n\nSolution: Since the only eigenergies are $E_{1}$ and $E_{2}$, the possible outcomes of the measurement are $\\boxed{E_{1},E_{2}}$.\n\nFinal answer: The final answer is E_{1},E_{2}. I hope it is correct.\n\nSubproblem 1: Suppose you do many identical measurements to measure the energies of identical systems in state $\\psi_{1,2}$. What average energy will you observe?",
+    "answer": "\\frac{1}{3} E_{1}+\\frac{2}{3} E_{2}"
+}

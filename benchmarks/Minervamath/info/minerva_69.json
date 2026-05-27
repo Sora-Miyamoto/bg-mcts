@@ -1,0 +1,4 @@
+{
+    "problem": "Subproblem 0: Find the general solution of the differential equation $y^{\\prime}=x-2 y$ analytically using integrating factors, solving for $y$. Note that a function $u(t)$ such that $u \\dot{x}+u p x=\\frac{d}{d t}(u x)$ is an integrating factor. Additionally, note that a general solution to a differential equation has the form $x=x_{p}+c x_{h}$ where $x_{h}$ is a nonzero solution of the homogeneous equation $\\dot{x}+p x=0$.\n\n\nSolution: In standard form, $y^{\\prime}+2 y=x$, so $u=C e^{2 x}$. Then $y=u^{-1} \\int u x d x=e^{-2 x} \\int x e^{2 x} d x$. Integrating by parts yields $\\int x e^{2 x} d x=$ $\\frac{x}{2} e^{2 x}-\\frac{1}{2} \\int e^{2 x} d x=\\frac{x}{2} e^{2 x}-\\frac{1}{4} e^{2 x}+c$. Therefore, $y=\\boxed{x / 2-1 / 4+c e^{-2 x}}$.\n\nFinal answer: The final answer is x / 2-1 / 4+c e^{-2 x}. I hope it is correct.\n\nSubproblem 1: For what value of $c$ does the straight line solution occur?",
+    "answer": "0"
+}

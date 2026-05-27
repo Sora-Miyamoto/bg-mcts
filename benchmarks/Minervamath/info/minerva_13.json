@@ -1,0 +1,4 @@
+{
+    "problem": "The differential luminosity from a star, $\\Delta L$, with an approximate blackbody spectrum, is given by:\n\\[\n\\Delta L=\\frac{8 \\pi^{2} c^{2} R^{2}}{\\lambda^{5}\\left[e^{h c /(\\lambda k T)}-1\\right]} \\Delta \\lambda\n\\]\nwhere $R$ is the radius of the star, $T$ is its effective surface temperature, and $\\lambda$ is the wavelength. $\\Delta L$ is the power emitted by the star between wavelengths $\\lambda$ and $\\lambda+\\Delta \\lambda$ (assume $\\Delta \\lambda \\ll \\lambda)$. The star is at distance $d$. Find the star's spectral intensity $I(\\lambda)$ at the Earth, where $I(\\lambda)$ is defined as the power per unit area per unit wavelength interval.",
+    "answer": "\\frac{2 \\pi c^{2} R^{2}}{\\lambda^{5}\\left[e^{h c /(\\lambda k T)}-1\\right] d^{2}}"
+}

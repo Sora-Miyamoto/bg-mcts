@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the frequency (in $s^{-1}$ of radiation capable of generating, in atomic hydrogen, free electrons which have a velocity of $1.3 \\times 10^{6} {~ms}^{-1}$. Please format your answer as $n \\times 10^x$ where $n$ is to 2 decimal places.",
+    "answer": "4.45e15"
+}

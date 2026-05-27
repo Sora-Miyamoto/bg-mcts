@@ -1,0 +1,4 @@
+{
+    "problem": "Subproblem 0: Is an energy level of $-1.362 \\times 10^{-19} {~J}$ an allowed electron energy state in atomic hydrogen?\n\n\nSolution: $E_{e l} =-\\frac{1}{n^{2}} {~K}$ \\\\\n$-1.362 \\times 10^{-19} {~J}=-\\frac{1}{{n}^{2}} \\times 2.18 \\times 10^{-18} {~J}$\\\\\n${n} &=\\sqrt{\\frac{2.18 \\times 10^{-18}}{1.362 \\times 10^{-19}}}=4.00$\\\\\nThe answer is \\boxed{Yes}.\n\nFinal answer: The final answer is Yes. I hope it is correct.\n\nSubproblem 1: If your answer is yes, determine its principal quantum number $(n)$. If your answer is no, determine ${n}$ for the \"nearest allowed state\".",
+    "answer": "4"
+}

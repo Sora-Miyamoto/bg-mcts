@@ -1,0 +1,6 @@
+{
+    "problem": "Let $\\omega$ be a complex number such that $\\omega^3 = 1.$  Find all possible values of\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]Enter all the possible values, separated by commas.",
+    "answer": "1",
+    "subject": "Precalculus",
+    "level": 2
+}

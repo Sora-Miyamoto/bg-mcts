@@ -1,0 +1,4 @@
+{
+    "problem": "Find the polynomial solution of $\\ddot{x}-x=t^{2}+t+1$, solving for $x(t)$.",
+    "answer": "-t^2 - t - 3"
+}

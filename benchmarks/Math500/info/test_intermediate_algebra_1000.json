@@ -1,0 +1,6 @@
+{
+    "problem": "Let $a$ be a positive real number such that all the roots of\n\\[x^3 + ax^2 + ax + 1 = 0\\]are real.  Find the smallest possible value of $a.$",
+    "answer": "3",
+    "subject": "Intermediate Algebra",
+    "level": 3
+}

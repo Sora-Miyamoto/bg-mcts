@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the rotor with moment of inertia \\(I\\) rotating under the influence of an applied torque \\(T\\) and the frictional torques from two bearings, each of which can be approximated by a linear frictional element with coefficient \\(B\\).\n\nFormulate the state-determined equation of motion for the angular velocity $\\omega$ as output and the torque $T$ as input.",
+    "answer": "I \\frac{d \\omega}{d t}+2 B \\omega=T"
+}

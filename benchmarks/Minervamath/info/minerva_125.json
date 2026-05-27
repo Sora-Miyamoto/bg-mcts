@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: For each Laplace Transform \\(Y(s)\\), find the function \\(y(t)\\) :\n\n\\[\nY(s)=\\boxed{\\frac{1}{(s+a)(s+b)}}\n\\]",
+    "answer": "\\frac{1}{b-a}\\left(e^{-a t}-e^{-b t}\\right)"
+}

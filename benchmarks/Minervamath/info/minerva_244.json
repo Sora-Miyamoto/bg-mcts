@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: A consumer's preferences are representable by the following utility function:\n\\[\n  u(x, y)=x^{\\frac{1}{2}}+y\n\\]\n\nObtain the marginal rate of substitution of the consumer at an arbitrary point $(X,Y)$, where $X>0$ and $Y>0$.",
+    "answer": "-\\frac{1}{2} X^{-\\frac{1}{2}}"
+}

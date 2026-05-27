@@ -1,0 +1,6 @@
+{
+    "problem": "Let $a,$ $b,$ $c,$ $d$ be distinct complex numbers such that $|a| = |b| = |c| = |d| = 1$ and $a + b + c + d = 0.$  Find the maximum value of\n\\[|(a + b)(a + c)(a + d)(b + c)(b + d)(c + d)|.\\]",
+    "answer": "0",
+    "subject": "Intermediate Algebra",
+    "level": 5
+}

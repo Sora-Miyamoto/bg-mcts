@@ -1,0 +1,4 @@
+{
+    "problem": "Consider the following \"mixing problem.\" A tank holds $V$ liters of salt water. Suppose that a saline solution with concentration of $c \\mathrm{gm} /$ liter is added at the rate of $r$ liters/minute. A mixer keeps the salt essentially uniformly distributed in the tank. A pipe lets solution out of the tank at the same rate of $r$ liters/minute. The differential equation for the amount of salt in the tank is given by \n\\[\nx^{\\prime}+\\frac{r}{V} x-r c=0 .\n\\]\nSuppose that the out-flow from this tank leads into another tank, also of volume 1 , and that at time $t=1$ the water in it has no salt in it. Again there is a mixer and an outflow. Write down a differential equation for the amount of salt in this second tank, as a function of time, assuming the amount of salt in the second tank at moment $t$ is given by $y(t)$, and the amount of salt in the first tank at moment $t$ is given by $x(t)$.",
+    "answer": "y^{\\prime}+r y-r x(t)=0"
+}

@@ -1,0 +1,6 @@
+{
+    "problem": "A set of three points is chosen randomly from the grid shown. Each three-point set has the same probability of being chosen. What is the probability that the points lie on the same straight line?\n\n[asy]\nsize(50);\nfor (int i=0; i<3; ++i) {\nfor (int j=0; j<3; ++j) {\ndot((i,j));};}\n[/asy]",
+    "answer": "\\frac{2}{21}",
+    "subject": "Counting & Probability",
+    "level": 4
+}

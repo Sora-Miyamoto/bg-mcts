@@ -1,0 +1,6 @@
+{
+    "problem": "The quadratic $x^2+(2.6)x+3.6$ can be written in the form $(x+b)^2+c$, where $b$ and $c$ are constants. What is $b+c$ (as a decimal)?",
+    "answer": "3.21",
+    "subject": "Algebra",
+    "level": 4
+}

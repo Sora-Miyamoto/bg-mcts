@@ -1,0 +1,4 @@
+{
+    "problem": "Preamble: Consider the mass \\(m\\) sliding horizontally under the influence of the applied force \\(f\\) and a friction force which can be approximated by a linear friction element with coefficient \\(b\\). \n\nFormulate the state-determined equation of motion for the velocity \\(v\\) as output and the force \\(f\\) as input.",
+    "answer": "m \\frac{d v}{d t}+b v=f"
+}

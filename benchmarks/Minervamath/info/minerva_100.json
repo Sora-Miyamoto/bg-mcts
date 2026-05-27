@@ -1,0 +1,4 @@
+{
+    "problem": "Find a purely exponential solution of $\\frac{d^{4} x}{d t^{4}}-x=e^{-2 t}$.",
+    "answer": "\\frac{e^{-2 t}}{15}"
+}

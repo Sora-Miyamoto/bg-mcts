@@ -1,0 +1,4 @@
+{
+    "problem": "Determine the differences in relative electronegativity $(\\Delta x$ in $e V)$ for the systems ${H}-{F}$ and ${C}-{F}$ given the following data:\n$\\begin{array}{cl}\\text { Bond Energy } & {kJ} / \\text { mole } \\\\ {H}_{2} & 436 \\\\ {~F}_{2} & 172 \\\\ {C}-{C} & 335 \\\\ {H}-{F} & 565 \\\\ {C}-{H} & 410\\end{array}$\n\\\\\nPlease format your answer to 2 decimal places.",
+    "answer": "0.54"
+}

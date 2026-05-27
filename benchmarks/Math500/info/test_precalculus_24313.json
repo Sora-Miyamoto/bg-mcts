@@ -1,0 +1,6 @@
+{
+    "problem": "Simplify\n\\[\\frac{\\sec x}{\\sin x} - \\frac{\\sin x}{\\cos x}.\\]",
+    "answer": "\\cot x",
+    "subject": "Precalculus",
+    "level": 2
+}

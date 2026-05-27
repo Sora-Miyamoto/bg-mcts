@@ -1,0 +1,6 @@
+{
+    "problem": "There exist constants $a$, $b$, $c$, and $d$ such that\n\\[(\\sin x)^7 = a \\sin 7x + b \\sin 5x + c \\sin 3x + d \\sin x\\]for all angles $x$.  Find $d$.",
+    "answer": "\\frac{35}{64}",
+    "subject": "Precalculus",
+    "level": 4
+}

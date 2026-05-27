@@ -1,0 +1,6 @@
+{
+    "problem": "The symbols $\\triangle$, $\\square$, $\\diamond$, $\\clubsuit$ represent four different integers from 1 to 9. Using the equations below, what is the value of   $\\square$ ? \\begin{align*}\n\\triangle + \\square &= \\clubsuit \\\\\n\\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\\n\\triangle + \\triangle &= \\clubsuit + \\diamond.\n\\end{align*}",
+    "answer": "3",
+    "subject": "Algebra",
+    "level": 3
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "Find the general (complex-valued) solution of the differential equation $\\dot{z}+2 z=e^{2 i t}$, using $C$ to stand for any complex-valued integration constants which may arise.",
+    "answer": "\\frac{e^{2 i t}}{(2+2 i)}+C e^{-2 t}"
+}

@@ -1,0 +1,4 @@
+{
+    "problem": "It has long been suspected that there is a massive black hole near the center of our Galaxy. Recently, a group of astronmers determined the parameters of a star that is orbiting the suspected black hole. The orbital period is 15 years, and the orbital radius is $0.12$ seconds of arc (as seen from the Earth). Take the distance to the Galactic center to be $8 \\mathrm{kpc}$. Compute the mass of the black hole, starting from $F=m a$. Express your answer in units of the Sun's mass; i.e., answer the question `what is the ratio of masses between this black hole and our Sun'? Give your answer to 1 significant figure. (Assume that Newton's law of gravity is applicable for orbits sufficiently far from a black hole, and that the orbiting star satisfies this condition.)",
+    "answer": "3e6"
+}
